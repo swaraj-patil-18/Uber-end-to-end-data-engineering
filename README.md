@@ -16,16 +16,21 @@ This project focuses on performing end-to-end data engineering for Uber data ana
 # Project Steps
 - Data Preparation: Combined and cleaned the Uber dataset files to create a unified dataset.
 - Data Modeling: Designed a comprehensive data model using Lucidchart, including a fact table and dimension tables.
+
+![Uber Data Model](https://github.com/swaraj-patil-18/Uber-end-to-end-data-engineering/assets/114085839/d3c2c909-183c-4228-8036-53f1baa33c64)
+
 - Data Transformation: Developed Python scripts for data transformation and generating the necessary fact and dimension tables.
 - Cloud Setup: Created a new project on Google Cloud Platform (GCP) and utilized GCP Cloud Storage to store the dataset securely.
 - Compute Engine Provisioning: Created a GCP Compute Engine instance and installed the required software (pip, Python, Mage, pandas, google-cloud-bigquery).
 - Data Pipeline: Utilized Mage to create an end-to-end data pipeline, including data loading, transformation, and exporting to GCP BigQuery.
+
 ![mage_pipeline](https://github.com/swaraj-patil-18/Uber-end-to-end-data-engineering/assets/114085839/fd690857-b944-4f31-9fcb-b880e27937d3)
 
 - Data Analytics: Ran various queries in GCP BigQuery to extract insights, such as average fare amount by hour of the day, tip amount by payment type, top pickup --locations by the number of trips, and total trips by passenger count.
 - Analytics Table Creation: Utilized SQL in GCP BigQuery to join the fact and dimension tables and create an analytics table.
 - Dashboard Creation: Connected GCP BigQuery with Looker Studio to create an interactive and insightful dashboard.
 - Dashboard Features: Designed a dashboard with dynamic filters, summary metrics (total revenue, record count), and a bubble map visualization of pickup locations.
+
 ![dashboard](https://github.com/swaraj-patil-18/Uber-end-to-end-data-engineering/assets/114085839/aa5f3951-edba-46c8-8ad4-b8add480e692)
 - Total revenue: The total revenue generated from Uber taxi rides in New York in February 2023 is $2.9 million, indicating the financial performance for that specific month.
 - Record count: The dataset contains 112,700 records, representing the total number of Uber taxi rides recorded in New York during February 2023.
