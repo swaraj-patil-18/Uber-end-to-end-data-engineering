@@ -1,0 +1,5 @@
+select b.passenger_count ,Count(a.trip_id) as No_of_trips from uber-swaraj.uber_project_data.fact_table a     
+join `uber-swaraj.uber_project_data.passenger_count_dim` b on 
+a.passenger_count_id=b.passenger_count_id
+group by passenger_count
+order by No_of_trips DESC

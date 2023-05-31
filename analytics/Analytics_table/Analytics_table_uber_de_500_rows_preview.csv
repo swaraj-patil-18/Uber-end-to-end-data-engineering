@@ -1,0 +1,501 @@
+trip_id,VendorID,tpep_pickup_datetime,tpep_dropoff_datetime,passenger_count,trip_distance,rate_code_name,PU_Borough,PU_zone,DO_Borough,DO_zone,payment_type_name,fare_amount,extra,mta_tax,tip_amount,tolls_amount,improvement_surcharge,total_amount
+41601,1,2023-02-01T14:08:04,2023-02-01T14:09:58,1,0.1,Standard rate,Manhattan,Sutton Place/Turtle Bay North,Manhattan,Sutton Place/Turtle Bay North,Credit card,0,0,0,0,0,0,0
+83344,1,2023-02-01T20:11:00,2023-02-01T20:12:13,1,0,JFK,Queens,JFK Airport,Queens,JFK Airport,Dispute,0,0,0,0,0,0,0
+109253,1,2023-02-02T06:45:31,2023-02-02T06:45:53,1,0,Standard rate,Manhattan,Lower East Side,Manhattan,Lower East Side,Dispute,0,0,0,0,0,0,0
+60423,2,2023-02-01T16:53:34,2023-02-01T16:54:13,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Astoria,Credit card,0,0,0,0,0,0,0
+57885,1,2023-02-01T16:06:43,2023-02-01T16:19:43,1,1.9,,Brooklyn,Downtown Brooklyn/MetroTech,Manhattan,TriBeCa/Civic Center,Credit card,0,0,0,0,0,0,0
+9036,1,2023-02-01T08:20:36,2023-02-01T08:20:36,6,0,,Queens,Long Island City/Hunters Point,Unknown,NV,Cash,0,0,0,0,0,0,0
+53920,2,2023-02-01T15:29:07,2023-02-01T15:29:35,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Credit card,0,0,0,0,0,0,0
+75603,2,2023-02-01T18:42:55,2023-02-01T18:43:10,1,0,Standard rate,Unknown,NV,Unknown,NV,Credit card,0,0,0,0,0,0,0
+35682,1,2023-02-01T12:15:32,2023-02-01T12:18:16,1,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Dispute,0,0,0,0,0,0,0
+101077,1,2023-02-01T22:30:53,2023-02-01T22:30:53,3,1.3,Standard rate,Manhattan,Midtown North,Manhattan,Midtown North,Dispute,0,0,0,0,0,0,0
+106759,1,2023-02-02T01:09:42,2023-02-02T01:28:31,1,2.8,,Bronx,West Concourse,Manhattan,Randalls Island,Credit card,0,0,0,0,0,0,0
+19355,1,2023-02-01T10:36:23,2023-02-01T10:36:52,1,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Credit card,0,0,0,0,0,0,0
+5575,1,2023-02-01T07:00:56,2023-02-01T07:01:21,1,0,Standard rate,Manhattan,Gramercy,Manhattan,Gramercy,Dispute,0,0,0,0,0,0,0
+60446,1,2023-02-01T17:53:17,2023-02-01T17:56:35,1,0.4,Standard rate,Manhattan,Lenox Hill West,Manhattan,Lenox Hill East,Dispute,0,0,0,0,0,0,0
+67164,1,2023-02-01T17:40:13,2023-02-01T17:44:01,1,0,Standard rate,Manhattan,Times Sq/Theatre District,Manhattan,Times Sq/Theatre District,Credit card,0,0,0,0,0,0,0
+53921,2,2023-02-01T15:48:28,2023-02-01T15:48:34,1,0,Standard rate,Unknown,NV,Unknown,NV,Cash,0,0,0,0,0,0,0
+2729,1,2023-02-01T04:17:22,2023-02-01T04:17:22,1,0,Negotiated fare,Manhattan,Lower East Side,Unknown,NV,Cash,0,0,0,0,0,0,0
+26564,1,2023-02-01T11:56:15,2023-02-01T11:56:47,1,0,Negotiated fare,Manhattan,Union Sq,Manhattan,Union Sq,No charge,1,0,0,0,0,1,2
+13899,2,2023-02-01T08:57:43,2023-02-01T08:58:26,1,0,Negotiated fare,Unknown,,Unknown,,Cash,1,0,0,0,0,1,2
+107237,2,2023-02-02T01:16:11,2023-02-02T01:34:43,1,8.9,Negotiated fare,Manhattan,Lenox Hill West,Unknown,,Cash,0,0,0,0,0,1,3.5
+107236,2,2023-02-02T01:16:11,2023-02-02T01:34:43,1,8.9,Negotiated fare,Manhattan,Lenox Hill West,Unknown,,Cash,0,0,0,0,0,-1,-3.5
+91211,2,2023-02-01T21:37:48,2023-02-01T21:51:51,1,2.84,Standard rate,Manhattan,Flatiron,Manhattan,Battery Park City,Cash,0,0,0.5,0,0,1,4
+1798,2,2023-02-01T01:17:29,2023-02-01T01:24:42,1,1.95,Standard rate,Manhattan,West Village,Manhattan,Battery Park City,Cash,0,0,0.5,0,0,1,4
+11182,2,2023-02-01T08:02:45,2023-02-01T08:28:06,1,2.3,Standard rate,Manhattan,Garment District,Manhattan,Kips Bay,Cash,0,0,0.5,0,0,1,4
+45609,2,2023-02-01T14:56:26,2023-02-01T14:56:44,1,0.04,JFK,Manhattan,Midtown Center,Manhattan,Midtown Center,Cash,0,0,0.5,0,0,1,4
+110461,2,2023-02-02T06:48:23,2023-02-02T07:00:57,1,3.7,Standard rate,Manhattan,Lower East Side,Manhattan,Lenox Hill West,Cash,0,0,0.5,0,0,1,4
+35794,2,2023-02-01T13:32:40,2023-02-01T14:02:33,1,2.38,JFK,Queens,Sunnyside,Manhattan,Lenox Hill West,Cash,0,0,0.5,0,0,1,4
+45608,2,2023-02-01T14:56:26,2023-02-01T14:56:44,1,0.04,JFK,Manhattan,Midtown Center,Manhattan,Midtown Center,Cash,0,0,-0.5,0,0,-1,-4
+110460,2,2023-02-02T06:48:23,2023-02-02T07:00:57,1,3.7,Standard rate,Manhattan,Lower East Side,Manhattan,Lenox Hill West,Cash,0,0,-0.5,0,0,-1,-4
+11181,2,2023-02-01T08:02:45,2023-02-01T08:28:06,1,2.3,Standard rate,Manhattan,Garment District,Manhattan,Kips Bay,Cash,0,0,-0.5,0,0,-1,-4
+1797,2,2023-02-01T01:17:29,2023-02-01T01:24:42,1,1.95,Standard rate,Manhattan,West Village,Manhattan,Battery Park City,Cash,0,0,-0.5,0,0,-1,-4
+35793,2,2023-02-01T13:32:40,2023-02-01T14:02:33,1,2.38,JFK,Queens,Sunnyside,Manhattan,Lenox Hill West,Cash,0,0,-0.5,0,0,-1,-4
+91210,2,2023-02-01T21:37:48,2023-02-01T21:51:51,1,2.84,Standard rate,Manhattan,Flatiron,Manhattan,Battery Park City,Cash,0,0,-0.5,0,0,-1,-4
+18805,2,2023-02-01T09:06:52,2023-02-01T09:09:01,1,0,Standard rate,Manhattan,East Harlem South,Manhattan,East Harlem South,Cash,3,0,0.5,0,0,1,4.5
+29768,2,2023-02-01T12:00:20,2023-02-01T12:02:06,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,4.5
+35501,2,2023-02-01T12:09:44,2023-02-01T12:09:55,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,4.5
+7648,2,2023-02-01T07:04:14,2023-02-01T07:04:22,1,0.08,Standard rate,Queens,Forest Park/Highland Park,Brooklyn,Cypress Hills,Cash,3,0,0.5,0,0,1,4.5
+24680,1,2023-02-01T11:58:57,2023-02-01T11:59:12,1,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+24718,1,2023-02-01T11:17:02,2023-02-01T11:17:15,1,0,Standard rate,Queens,East Elmhurst,Queens,East Elmhurst,Dispute,3,0,0.5,0,0,1,4.5
+44326,2,2023-02-01T14:43:58,2023-02-01T14:44:02,1,0.03,Standard rate,Staten Island,Charleston/Tottenville,Staten Island,Charleston/Tottenville,Cash,3,0,0.5,0,0,1,4.5
+5140,2,2023-02-01T06:40:18,2023-02-01T09:55:00,1,0.01,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,4.5
+35500,2,2023-02-01T12:04:22,2023-02-01T12:05:12,5,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,4.5
+35856,1,2023-02-01T13:46:01,2023-02-01T13:46:06,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,No charge,3,0,0.5,0,0,1,4.5
+19352,1,2023-02-01T10:34:09,2023-02-01T10:34:22,2,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+31155,1,2023-02-01T12:02:23,2023-02-01T12:02:36,1,0,Standard rate,Queens,Saint Michaels Cemetery/Woodside,Queens,Saint Michaels Cemetery/Woodside,Cash,3,0,0.5,0,0,1,4.5
+8518,2,2023-02-01T07:31:29,2023-02-01T07:32:18,4,0,Standard rate,Queens,Sunnyside,Queens,Sunnyside,Cash,3,0,0.5,0,0,1,4.5
+14110,1,2023-02-01T09:39:23,2023-02-01T09:39:25,0,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+3568,1,2023-02-01T06:16:19,2023-02-01T06:26:16,1,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+6750,2,2023-02-01T07:19:59,2023-02-01T07:20:31,1,0,Standard rate,Queens,Saint Michaels Cemetery/Woodside,Queens,Saint Michaels Cemetery/Woodside,Cash,3,0,0.5,0,0,1,4.5
+52786,2,2023-02-01T15:07:03,2023-02-01T15:07:09,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,3,0,0.5,0,0,1,4.5
+53570,2,2023-02-01T15:42:59,2023-02-01T15:43:25,1,0,Standard rate,Queens,East Elmhurst,Queens,East Elmhurst,Cash,3,0,0.5,0,0,1,4.5
+35690,2,2023-02-01T13:05:25,2023-02-01T13:06:06,1,0,Standard rate,Manhattan,Manhattanville,Manhattan,Manhattanville,Cash,3,0,0.5,0,0,1,4.5
+41420,1,2023-02-01T13:48:03,2023-02-01T13:48:43,1,0,Standard rate,Queens,South Ozone Park,Queens,South Ozone Park,No charge,3,0,0.5,0,0,1,4.5
+5242,2,2023-02-01T07:47:49,2023-02-01T07:48:00,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Cash,3,0,0.5,0,0,1,4.5
+16432,2,2023-02-01T09:10:06,2023-02-01T09:10:23,1,0.01,Standard rate,Queens,East Elmhurst,Queens,East Elmhurst,Cash,3,0,0.5,0,0,1,4.5
+33936,2,2023-02-01T12:23:18,2023-02-01T12:23:30,4,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Credit card,3,0,0.5,0,0,1,4.5
+41484,2,2023-02-01T14:52:01,2023-02-01T14:52:06,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Cash,3,0,0.5,0,0,1,4.5
+41486,2,2023-02-01T14:05:03,2023-02-01T14:05:24,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,3,0,0.5,0,0,1,4.5
+29934,2,2023-02-01T12:31:45,2023-02-01T12:32:44,1,0,Standard rate,Queens,Saint Michaels Cemetery/Woodside,Queens,Saint Michaels Cemetery/Woodside,Cash,3,0,0.5,0,0,1,4.5
+9041,2,2023-02-01T08:14:27,2023-02-01T08:14:33,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Credit card,3,0,0.5,0,0,1,4.5
+24684,2,2023-02-01T11:51:06,2023-02-01T11:51:22,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Cash,3,0,0.5,0,0,1,4.5
+29714,1,2023-02-01T11:49:49,2023-02-01T11:49:53,0,29.5,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,No charge,3,0,0.5,0,0,1,4.5
+47524,2,2023-02-01T15:40:09,2023-02-01T15:40:18,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,3,0,0.5,0,0,1,4.5
+35685,1,2023-02-01T13:00:57,2023-02-01T13:01:13,0,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+110905,1,2023-02-02T07:32:31,2023-02-02T07:32:36,0,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+112574,2,2023-02-02T07:07:10,2023-02-02T07:07:17,1,0,Standard rate,Brooklyn,Bensonhurst East,Brooklyn,Bensonhurst East,Credit card,3,0,0.5,0,0,1,4.5
+35687,2,2023-02-01T13:59:28,2023-02-01T13:59:40,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Credit card,3,0,0.5,0,0,1,4.5
+41483,2,2023-02-01T14:35:56,2023-02-01T14:36:01,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Astoria,Cash,3,0,0.5,0,0,1,4.5
+12573,1,2023-02-01T08:46:49,2023-02-01T08:47:10,1,0,Standard rate,Manhattan,Central Harlem,Manhattan,Morningside Heights,Dispute,3,0,0.5,0,0,1,4.5
+18081,2,2023-02-01T09:16:14,2023-02-01T09:16:55,1,0.02,Standard rate,Queens,East Elmhurst,Queens,LaGuardia Airport,Dispute,3,0,0.5,0,0,1,4.5
+22762,2,2023-02-01T10:32:40,2023-02-01T10:32:53,1,0.14,Standard rate,Manhattan,Randalls Island,Manhattan,Randalls Island,Cash,3,0,0.5,0,0,1,4.5
+41881,2,2023-02-01T14:43:59,2023-02-01T14:44:02,1,0,Standard rate,Bronx,Mott Haven/Port Morris,Bronx,Mott Haven/Port Morris,Cash,3,0,0.5,0,0,1,4.5
+47526,2,2023-02-01T15:58:43,2023-02-01T15:58:51,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,3,0,0.5,0,0,1,4.5
+53502,1,2023-02-01T15:14:20,2023-02-01T15:22:34,1,0,Standard rate,Queens,Steinway,Manhattan,East Harlem North,No charge,3,0,0.5,0,0,1,4.5
+35149,2,2023-02-01T12:44:58,2023-02-01T12:45:06,1,0,Standard rate,Manhattan,Manhattanville,Manhattan,Manhattanville,Cash,3,0,0.5,0,0,1,4.5
+14113,2,2023-02-01T09:27:05,2023-02-01T09:27:12,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Credit card,3,0,0.5,0,0,1,4.5
+19529,2,2023-02-01T10:01:15,2023-02-01T10:01:52,1,0.02,Standard rate,Brooklyn,Fort Greene,Brooklyn,Fort Greene,Cash,3,0,0.5,0,0,1,4.5
+29928,1,2023-02-01T12:27:50,2023-02-01T12:28:15,1,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+41882,2,2023-02-01T14:44:43,2023-02-01T14:44:47,1,0.07,Standard rate,Bronx,Mott Haven/Port Morris,Bronx,Mott Haven/Port Morris,Cash,3,0,0.5,0,0,1,4.5
+4985,2,2023-02-01T06:46:58,2023-02-01T06:47:22,1,0.14,Standard rate,Manhattan,Manhattan Valley,Manhattan,Manhattan Valley,Cash,3,0,0.5,0,0,1,4.5
+17574,2,2023-02-01T09:53:13,2023-02-01T09:53:25,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Cash,3,0,0.5,0,0,1,4.5
+18809,2,2023-02-01T09:24:56,2023-02-01T09:28:56,1,0,Standard rate,Manhattan,Yorkville East,Manhattan,Yorkville East,Cash,3,0,0.5,0,0,1,4.5
+29940,2,2023-02-01T12:59:25,2023-02-01T12:59:31,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Astoria,No charge,3,0,0.5,0,0,1,4.5
+9039,1,2023-02-01T08:24:26,2023-02-01T08:24:32,0,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+24682,2,2023-02-01T11:59:09,2023-02-01T11:59:17,1,0,Standard rate,Unknown,NV,Queens,Queensbridge/Ravenswood,Cash,3,0,0.5,0,0,1,4.5
+41481,1,2023-02-01T14:33:03,2023-02-01T14:33:08,2,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+113517,2,2023-02-02T07:42:33,2023-02-02T07:43:01,1,0.08,Standard rate,Unknown,NV,Unknown,NV,Dispute,3,0,0.5,0,0,1,4.5
+5243,2,2023-02-01T07:58:10,2023-02-01T07:58:24,3,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Credit card,3,0,0.5,0,0,1,4.5
+29935,2,2023-02-01T12:05:44,2023-02-01T12:05:52,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Credit card,3,0,0.5,0,0,1,4.5
+110715,2,2023-02-02T06:51:51,2023-02-02T06:52:14,1,0.07,Standard rate,Manhattan,Yorkville West,Manhattan,East Harlem South,Cash,3,0,0.5,0,0,1,4.5
+24315,2,2023-02-01T10:07:01,2023-02-01T10:07:17,1,0,Negotiated fare,Manhattan,West Village,Manhattan,Flatiron,No charge,1,0,0,0,0,1,4.5
+113515,2,2023-02-02T07:38:22,2023-02-02T07:38:59,1,0.02,Standard rate,Unknown,NV,Unknown,NV,Dispute,3,0,0.5,0,0,1,4.5
+35686,2,2023-02-01T13:06:29,2023-02-01T13:06:35,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Credit card,3,0,0.5,0,0,1,4.5
+110554,2,2023-02-02T06:19:21,2023-02-02T06:19:41,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,4.5
+110904,1,2023-02-02T07:00:36,2023-02-02T07:00:43,0,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+14109,1,2023-02-01T09:56:26,2023-02-01T09:56:52,2,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+9043,1,2023-02-01T08:29:20,2023-02-01T08:30:52,1,0,Standard rate,Queens,Saint Michaels Cemetery/Woodside,Queens,Saint Michaels Cemetery/Woodside,Cash,3,0,0.5,0,0,1,4.5
+24719,1,2023-02-01T11:17:41,2023-02-01T11:18:00,1,0,Standard rate,Queens,East Elmhurst,Queens,East Elmhurst,Dispute,3,0,0.5,0,0,1,4.5
+38491,2,2023-02-01T13:07:41,2023-02-01T13:08:00,1,0.01,Standard rate,Queens,East Elmhurst,Queens,LaGuardia Airport,Cash,3,0,0.5,0,0,1,4.5
+6830,2,2023-02-01T07:51:32,2023-02-01T07:51:56,1,0.01,Standard rate,Manhattan,East Harlem North,Manhattan,East Harlem North,Cash,3,0,0.5,0,0,1,4.5
+21071,1,2023-02-01T10:15:49,2023-02-01T10:16:14,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Cash,3,0,0.5,0,0,1,4.5
+22807,2,2023-02-01T10:54:53,2023-02-01T10:55:26,1,0,Standard rate,Queens,Saint Michaels Cemetery/Woodside,Queens,Saint Michaels Cemetery/Woodside,Cash,3,0,0.5,0,0,1,4.5
+29932,1,2023-02-01T12:24:19,2023-02-01T12:25:28,0,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+42037,2,2023-02-01T14:31:11,2023-02-01T14:31:25,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Dispute,3,0,0.5,0,0,1,4.5
+24717,1,2023-02-01T11:16:18,2023-02-01T11:16:39,1,0,Standard rate,Queens,East Elmhurst,Queens,East Elmhurst,Dispute,3,0,0.5,0,0,1,4.5
+16032,1,2023-02-01T09:13:32,2023-02-01T09:14:13,2,0,Standard rate,Manhattan,Clinton West,Manhattan,Clinton West,No charge,3,0,0.5,0,0,1,4.5
+29169,2,2023-02-01T11:28:46,2023-02-01T11:29:05,1,0,Standard rate,Manhattan,East Harlem South,Manhattan,East Harlem South,Cash,3,0,0.5,0,0,1,4.5
+29930,1,2023-02-01T12:13:32,2023-02-01T12:14:23,2,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+32106,1,2023-02-01T12:02:40,2023-02-01T12:03:13,1,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Dispute,3,0,0.5,0,0,1,4.5
+44460,2,2023-02-01T14:05:45,2023-02-01T14:06:04,2,0.05,Standard rate,Manhattan,East Harlem North,Manhattan,East Harlem North,Cash,3,0,0.5,0,0,1,4.5
+33154,2,2023-02-01T12:23:22,2023-02-01T12:23:42,1,0.1,Standard rate,Manhattan,Manhattan Valley,Manhattan,Manhattan Valley,No charge,3,0,0.5,0,0,1,4.5
+43939,2,2023-02-01T14:19:21,2023-02-01T14:20:25,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Cash,3,0,0.5,0,0,1,4.5
+112094,2,2023-02-02T07:37:18,2023-02-02T07:37:31,5,0,Standard rate,Queens,Sunnyside,Queens,Sunnyside,Dispute,3,0,0.5,0,0,1,4.5
+41478,1,2023-02-01T14:35:34,2023-02-01T14:36:46,1,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+53571,2,2023-02-01T15:43:42,2023-02-01T15:44:02,1,0,Standard rate,Queens,East Elmhurst,Queens,East Elmhurst,Cash,3,0,0.5,0,0,1,4.5
+19351,1,2023-02-01T10:33:14,2023-02-01T10:33:43,2,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+19354,1,2023-02-01T10:34:57,2023-02-01T10:35:57,0,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+60314,2,2023-02-01T16:19:38,2023-02-01T16:20:21,1,0,Standard rate,Queens,Sunnyside,Queens,Sunnyside,Dispute,3,0,0.5,0,0,1,4.5
+9038,1,2023-02-01T08:24:07,2023-02-01T08:24:12,0,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+38305,2,2023-02-01T13:28:13,2023-02-01T13:28:19,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,3,0,0.5,0,0,1,4.5
+19356,1,2023-02-01T10:01:01,2023-02-01T10:01:22,2,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+41482,1,2023-02-01T14:38:32,2023-02-01T14:38:54,0,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+5676,1,2023-02-01T07:16:56,2023-02-01T07:17:19,1,0,Standard rate,Queens,Long Island City/Queens Plaza,Queens,Long Island City/Queens Plaza,No charge,3,0,0.5,0,0,1,4.5
+9037,1,2023-02-01T08:23:45,2023-02-01T08:23:51,0,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+43941,2,2023-02-01T14:44:31,2023-02-01T14:47:07,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,3,0,0.5,0,0,1,4.5
+9035,1,2023-02-01T08:18:46,2023-02-01T08:18:55,0,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+14115,2,2023-02-01T09:53:40,2023-02-01T09:54:35,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Credit card,3,0,0.5,0,0,1,4.5
+43637,2,2023-02-01T14:48:27,2023-02-01T14:48:52,1,0.02,Standard rate,Manhattan,Upper East Side North,Manhattan,Upper East Side North,Dispute,3,0,0.5,0,0,1,4.5
+9033,1,2023-02-01T08:06:53,2023-02-01T08:07:04,0,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+24679,1,2023-02-01T11:51:54,2023-02-01T11:52:44,1,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+29938,2,2023-02-01T12:39:02,2023-02-01T12:39:22,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,3,0,0.5,0,0,1,4.5
+47522,2,2023-02-01T15:20:33,2023-02-01T15:21:19,1,0.01,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Credit card,3,0,0.5,0,0,1,4.5
+19357,1,2023-02-01T10:45:40,2023-02-01T10:45:50,0,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+29929,1,2023-02-01T12:08:55,2023-02-01T12:09:08,0,29.5,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+36037,2,2023-02-01T13:31:00,2023-02-01T13:44:26,1,0,Standard rate,Manhattan,Morningside Heights,Manhattan,Morningside Heights,No charge,3,0,0.5,0,0,1,4.5
+43367,2,2023-02-01T14:55:54,2023-02-01T14:56:02,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,3,0,0.5,0,0,1,4.5
+49345,2,2023-02-01T15:14:48,2023-02-01T15:15:17,1,0.01,Standard rate,Manhattan,East Harlem North,Manhattan,Central Harlem,Cash,3,0,0.5,0,0,1,4.5
+110879,2,2023-02-02T06:56:14,2023-02-02T06:56:42,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,No charge,3,0,0.5,0,0,1,4.5
+15291,2,2023-02-01T09:23:55,2023-02-01T09:24:31,1,0,Standard rate,Queens,Saint Michaels Cemetery/Woodside,Queens,Saint Michaels Cemetery/Woodside,Cash,3,0,0.5,0,0,1,4.5
+19353,1,2023-02-01T10:34:41,2023-02-01T10:34:44,2,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+44459,2,2023-02-01T14:05:14,2023-02-01T14:05:19,1,0,Standard rate,Manhattan,East Harlem North,Manhattan,East Harlem North,Cash,3,0,0.5,0,0,1,4.5
+29933,2,2023-02-01T12:11:08,2023-02-01T12:11:52,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Astoria,Cash,3,0,0.5,0,0,1,4.5
+31156,1,2023-02-01T12:02:39,2023-02-01T12:02:51,1,0,Standard rate,Queens,Saint Michaels Cemetery/Woodside,Queens,Saint Michaels Cemetery/Woodside,Cash,3,0,0.5,0,0,1,4.5
+36882,2,2023-02-01T13:09:38,2023-02-01T13:09:56,2,0,Standard rate,Manhattan,East Harlem North,Manhattan,East Harlem North,Cash,3,0,0.5,0,0,1,4.5
+4638,1,2023-02-01T06:24:25,2023-02-01T06:24:47,1,0,Standard rate,Queens,Flushing,Queens,Flushing,No charge,3,0,0.5,0,0,1,4.5
+29715,1,2023-02-01T11:50:22,2023-02-01T11:50:30,1,29.5,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,No charge,3,0,0.5,0,0,1,4.5
+24685,2,2023-02-01T11:00:36,2023-02-01T11:00:56,1,0,Standard rate,Queens,Astoria,Queens,Queensbridge/Ravenswood,Credit card,3,0,0.5,0,0,1,4.5
+112395,2,2023-02-02T07:24:22,2023-02-02T07:25:34,1,0,Standard rate,Queens,Sunnyside,Queens,Sunnyside,No charge,3,0,0.5,0,0,1,4.5
+9034,1,2023-02-01T08:07:21,2023-02-01T08:07:27,0,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+9040,1,2023-02-01T08:25:14,2023-02-01T08:25:42,6,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+20444,1,2023-02-01T10:08:34,2023-02-01T10:08:55,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Cash,3,0,0.5,0,0,1,4.5
+29924,1,2023-02-01T12:13:19,2023-02-01T12:14:25,1,0,Standard rate,Queens,Long Island City/Hunters Point,Queens,Long Island City/Hunters Point,Cash,3,0,0.5,0,0,1,4.5
+44325,2,2023-02-01T14:43:58,2023-02-01T14:44:02,1,0.03,Standard rate,Staten Island,Charleston/Tottenville,Staten Island,Charleston/Tottenville,Cash,-3,0,-0.5,0,0,-1,-4.5
+29939,2,2023-02-01T12:59:25,2023-02-01T12:59:31,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,-3,0,-0.5,0,0,-1,-4.5
+52785,2,2023-02-01T15:07:03,2023-02-01T15:07:09,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,-3,0,-0.5,0,0,-1,-4.5
+110878,2,2023-02-02T06:56:14,2023-02-02T06:56:42,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,No charge,-3,0,-0.5,0,0,-1,-4.5
+43636,2,2023-02-01T14:48:27,2023-02-01T14:48:52,1,0.02,Standard rate,Manhattan,Upper East Side North,Manhattan,Upper East Side North,Dispute,-3,0,-0.5,0,0,-1,-4.5
+33153,2,2023-02-01T12:23:22,2023-02-01T12:23:42,1,0.1,Standard rate,Manhattan,Manhattan Valley,Manhattan,Manhattan Valley,No charge,-3,0,-0.5,0,0,-1,-4.5
+112093,2,2023-02-02T07:37:18,2023-02-02T07:37:31,5,0,Standard rate,Queens,Sunnyside,Queens,Sunnyside,Dispute,-3,0,-0.5,0,0,-1,-4.5
+29937,2,2023-02-01T12:39:02,2023-02-01T12:39:22,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Unknown,NV,No charge,-3,0,-0.5,0,0,-1,-4.5
+36036,2,2023-02-01T13:31:00,2023-02-01T13:44:26,1,0,Standard rate,Manhattan,Morningside Heights,Manhattan,Morningside Heights,No charge,-3,0,-0.5,0,0,-1,-4.5
+42036,2,2023-02-01T14:31:11,2023-02-01T14:31:25,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,Dispute,-3,0,-0.5,0,0,-1,-4.5
+43940,2,2023-02-01T14:44:31,2023-02-01T14:47:07,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,-3,0,-0.5,0,0,-1,-4.5
+38490,2,2023-02-01T13:07:41,2023-02-01T13:08:00,1,0.01,Standard rate,Queens,East Elmhurst,Queens,East Elmhurst,Cash,-3,0,-0.5,0,0,-1,-4.5
+47525,2,2023-02-01T15:58:43,2023-02-01T15:58:51,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,-3,0,-0.5,0,0,-1,-4.5
+43366,2,2023-02-01T14:55:54,2023-02-01T14:56:02,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,-3,0,-0.5,0,0,-1,-4.5
+60313,2,2023-02-01T16:19:38,2023-02-01T16:20:21,1,0,Standard rate,Queens,Sunnyside,Queens,Sunnyside,Dispute,-3,0,-0.5,0,0,-1,-4.5
+7647,2,2023-02-01T07:04:14,2023-02-01T07:04:22,1,0.08,Standard rate,Queens,Forest Park/Highland Park,Queens,Forest Park/Highland Park,Cash,-3,0,-0.5,0,0,-1,-4.5
+18080,2,2023-02-01T09:16:14,2023-02-01T09:16:55,1,0.02,Standard rate,Queens,East Elmhurst,Unknown,NV,Dispute,-3,0,-0.5,0,0,-1,-4.5
+112394,2,2023-02-02T07:24:22,2023-02-02T07:25:34,1,0,Standard rate,Queens,Sunnyside,Queens,Sunnyside,No charge,-3,0,-0.5,0,0,-1,-4.5
+38304,2,2023-02-01T13:28:13,2023-02-01T13:28:19,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,-3,0,-0.5,0,0,-1,-4.5
+113516,2,2023-02-02T07:42:33,2023-02-02T07:43:01,1,0.08,Standard rate,Unknown,NV,Unknown,NV,Dispute,-3,0,-0.5,0,0,-1,-4.5
+24314,2,2023-02-01T10:07:01,2023-02-01T10:07:17,1,0,Negotiated fare,Manhattan,West Village,Manhattan,West Village,No charge,-1,0,0,0,0,-1,-4.5
+41485,2,2023-02-01T14:05:03,2023-02-01T14:05:24,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,-3,0,-0.5,0,0,-1,-4.5
+47523,2,2023-02-01T15:40:09,2023-02-01T15:40:18,1,0,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Queensbridge/Ravenswood,No charge,-3,0,-0.5,0,0,-1,-4.5
+113514,2,2023-02-02T07:38:22,2023-02-02T07:38:59,1,0.02,Standard rate,Unknown,NV,Unknown,NV,Dispute,-3,0,-0.5,0,0,-1,-4.5
+35653,2,2023-02-01T12:15:50,2023-02-01T12:16:03,1,0,Standard rate,Unknown,NV,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,5.75
+43240,2,2023-02-01T14:16:52,2023-02-01T14:16:59,1,0.01,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,5.75
+112482,2,2023-02-02T07:52:36,2023-02-02T07:52:55,2,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,5.75
+6076,2,2023-02-01T07:55:20,2023-02-01T07:55:34,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,No charge,3,0,0.5,0,0,1,5.75
+50420,2,2023-02-01T15:36:35,2023-02-01T15:36:41,2,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Dispute,3,0,0.5,0,0,1,5.75
+19743,2,2023-02-01T10:45:17,2023-02-01T10:45:47,2,0.01,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,5.75
+4620,2,2023-02-01T06:20:36,2023-02-01T06:20:54,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,5.75
+110927,2,2023-02-02T07:15:22,2023-02-02T07:15:28,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,5.75
+112106,2,2023-02-02T07:50:22,2023-02-02T07:50:32,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,5.75
+24890,2,2023-02-01T11:57:44,2023-02-01T11:57:48,2,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Dispute,3,0,0.5,0,0,1,5.75
+19199,2,2023-02-01T09:36:13,2023-02-01T09:36:39,2,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Dispute,3,0,0.5,0,0,1,5.75
+8389,2,2023-02-01T07:49:06,2023-02-01T07:49:14,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Dispute,3,0,0.5,0,0,1,5.75
+53856,2,2023-02-01T15:01:13,2023-02-01T15:01:17,2,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,5.75
+35737,2,2023-02-01T13:18:09,2023-02-01T13:18:17,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,5.75
+36320,2,2023-02-01T13:13:04,2023-02-01T13:13:09,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,5.75
+43620,2,2023-02-01T14:18:53,2023-02-01T14:19:00,2,0.01,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,5.75
+37788,2,2023-02-01T13:52:05,2023-02-01T13:52:25,5,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,5.75
+43927,2,2023-02-01T14:21:09,2023-02-01T14:21:15,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,3,0,0.5,0,0,1,5.75
+6075,2,2023-02-01T07:55:20,2023-02-01T07:55:34,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,No charge,-3,0,-0.5,0,0,-1,-5.75
+19198,2,2023-02-01T09:36:13,2023-02-01T09:36:39,2,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Dispute,-3,0,-0.5,0,0,-1,-5.75
+8388,2,2023-02-01T07:49:06,2023-02-01T07:49:14,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Dispute,-3,0,-0.5,0,0,-1,-5.75
+43619,2,2023-02-01T14:18:53,2023-02-01T14:19:00,2,0.01,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,-3,0,-0.5,0,0,-1,-5.75
+4619,2,2023-02-01T06:20:36,2023-02-01T06:20:54,1,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,-3,0,-0.5,0,0,-1,-5.75
+24889,2,2023-02-01T11:57:44,2023-02-01T11:57:48,2,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Dispute,-3,0,-0.5,0,0,-1,-5.75
+19742,2,2023-02-01T10:45:17,2023-02-01T10:45:47,2,0.01,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,-3,0,-0.5,0,0,-1,-5.75
+112481,2,2023-02-02T07:52:36,2023-02-02T07:52:55,2,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Cash,-3,0,-0.5,0,0,-1,-5.75
+50419,2,2023-02-01T15:36:35,2023-02-01T15:36:41,2,0,Standard rate,Queens,JFK Airport,Queens,JFK Airport,Dispute,-3,0,-0.5,0,0,-1,-5.75
+5261,2,2023-02-01T07:29:37,2023-02-01T07:29:45,1,0,Negotiated fare,Queens,JFK Airport,Queens,JFK Airport,Cash,4,0,0,0,0,1,6.25
+41090,2,2023-02-01T13:36:46,2023-02-01T13:37:23,1,0,Standard rate,Manhattan,Gramercy,Manhattan,Gramercy,Cash,3,0,0.5,0,0,1,7
+28593,2,2023-02-01T11:39:09,2023-02-01T11:39:13,1,0.01,Standard rate,Manhattan,Clinton East,Manhattan,Clinton East,Cash,3,0,0.5,0,0,1,7
+40836,2,2023-02-01T13:16:19,2023-02-01T13:17:18,1,0.02,Standard rate,Manhattan,Upper East Side South,Manhattan,Upper East Side South,Cash,3,0,0.5,0,0,1,7
+16445,2,2023-02-01T09:10:15,2023-02-01T09:10:54,1,0.01,Standard rate,Manhattan,Midtown East,Manhattan,Murray Hill,Cash,3,0,0.5,0,0,1,7
+109670,2,2023-02-02T06:01:04,2023-02-02T06:01:34,1,0.05,Standard rate,Manhattan,Sutton Place/Turtle Bay North,Manhattan,Sutton Place/Turtle Bay North,Credit card,3,0,0.5,0,0,1,7
+15682,2,2023-02-01T09:16:46,2023-02-01T09:17:28,1,0.15,Standard rate,Manhattan,Gramercy,Manhattan,Gramercy,Credit card,3,0,0.5,0,0,1,7
+15593,2,2023-02-01T09:58:16,2023-02-01T09:58:27,1,0,Standard rate,Manhattan,Upper West Side North,Manhattan,Upper West Side North,Cash,3,0,0.5,0,0,1,7
+9899,2,2023-02-01T08:29:44,2023-02-01T08:29:50,1,0,Standard rate,Manhattan,Upper East Side South,Manhattan,Midtown North,Cash,3,0,0.5,0,0,1,7
+32987,2,2023-02-01T12:56:57,2023-02-01T12:57:22,1,0.05,Standard rate,Manhattan,East Village,Manhattan,East Village,Cash,3,0,0.5,0,0,1,7
+27277,2,2023-02-01T11:24:17,2023-02-01T11:24:27,2,0.02,Standard rate,Manhattan,Union Sq,Manhattan,Union Sq,Cash,3,0,0.5,0,0,1,7
+42690,2,2023-02-01T14:30:26,2023-02-01T14:30:57,1,0.06,Standard rate,Manhattan,Midtown Center,Manhattan,Midtown Center,No charge,3,0,0.5,0,0,1,7
+36131,2,2023-02-01T13:56:05,2023-02-01T13:56:17,1,0,Standard rate,Manhattan,TriBeCa/Civic Center,Manhattan,TriBeCa/Civic Center,Cash,3,0,0.5,0,0,1,7
+6112,2,2023-02-01T07:21:57,2023-02-01T07:22:17,1,0.04,Standard rate,Manhattan,Upper East Side North,Manhattan,Upper East Side North,Cash,3,0,0.5,0,0,1,7
+41825,2,2023-02-01T14:03:29,2023-02-01T14:04:12,1,0.05,Standard rate,Manhattan,Murray Hill,Manhattan,UN/Turtle Bay South,Cash,3,0,0.5,0,0,1,7
+109532,2,2023-02-02T06:57:00,2023-02-02T06:57:44,1,0.11,Standard rate,Manhattan,Midtown East,Manhattan,Midtown Center,No charge,3,0,0.5,0,0,1,7
+11058,2,2023-02-01T08:43:50,2023-02-01T08:44:00,1,0,Standard rate,Manhattan,Murray Hill,Manhattan,Murray Hill,Cash,3,0,0.5,0,0,1,7
+16320,2,2023-02-01T09:48:06,2023-02-01T09:49:05,1,0.02,Standard rate,Manhattan,Clinton East,Manhattan,Clinton East,Cash,3,0,0.5,0,0,1,7
+33777,2,2023-02-01T12:15:57,2023-02-01T12:16:16,1,0,Standard rate,Manhattan,Sutton Place/Turtle Bay North,Manhattan,Sutton Place/Turtle Bay North,No charge,3,0,0.5,0,0,1,7
+112779,2,2023-02-02T07:00:12,2023-02-02T07:00:25,1,0,Standard rate,Manhattan,TriBeCa/Civic Center,Manhattan,TriBeCa/Civic Center,Cash,3,0,0.5,0,0,1,7
+15095,2,2023-02-01T09:00:30,2023-02-01T09:01:03,1,0,Standard rate,Manhattan,Midtown North,Manhattan,Midtown North,Cash,3,0,0.5,0,0,1,7
+113477,2,2023-02-02T07:05:35,2023-02-02T07:06:15,1,0,Standard rate,Manhattan,East Chelsea,Manhattan,East Chelsea,Dispute,3,0,0.5,0,0,1,7
+41039,2,2023-02-01T13:54:25,2023-02-01T14:00:49,1,0,Standard rate,Manhattan,Midtown North,Manhattan,Midtown North,Cash,3,0,0.5,0,0,1,7
+12145,2,2023-02-01T08:50:33,2023-02-01T08:51:10,1,0,Standard rate,Manhattan,Lincoln Square East,Manhattan,Lincoln Square East,Cash,3,0,0.5,0,0,1,7
+3752,2,2023-02-01T06:16:43,2023-02-01T06:16:51,1,0,Standard rate,Manhattan,Times Sq/Theatre District,Manhattan,Times Sq/Theatre District,Dispute,3,0,0.5,0,0,1,7
+52656,2,2023-02-01T15:05:36,2023-02-01T15:05:52,1,0.02,Standard rate,Manhattan,Flatiron,Manhattan,Flatiron,Cash,3,0,0.5,0,0,1,7
+53464,2,2023-02-01T15:48:49,2023-02-01T15:49:41,1,0.01,Standard rate,Manhattan,Murray Hill,Manhattan,Midtown East,No charge,3,0,0.5,0,0,1,7
+5186,2,2023-02-01T06:53:01,2023-02-01T06:54:43,1,0,Standard rate,Unknown,NV,Unknown,NV,Cash,3,0,0.5,0,0,1,7
+29771,2,2023-02-01T11:07:22,2023-02-01T11:07:39,1,0,Standard rate,Manhattan,Midtown North,Manhattan,Midtown North,Cash,3,0,0.5,0,0,1,7
+36158,2,2023-02-01T13:52:17,2023-02-01T13:52:50,1,0,Standard rate,Manhattan,Times Sq/Theatre District,Manhattan,Midtown Center,Cash,3,0,0.5,0,0,1,7
+47346,2,2023-02-01T14:05:14,2023-02-01T14:05:20,1,0,Standard rate,Manhattan,Midtown North,Manhattan,Midtown North,Cash,3,0,0.5,0,0,1,7
+47426,2,2023-02-01T14:53:00,2023-02-01T14:53:48,2,0,Standard rate,Manhattan,Midtown East,Manhattan,Midtown East,Cash,3,0,0.5,0,0,1,7
+53794,2,2023-02-01T15:33:36,2023-02-01T15:33:43,4,0,Standard rate,Manhattan,Penn Station/Madison Sq West,Manhattan,Penn Station/Madison Sq West,Cash,3,0,0.5,0,0,1,7
+10928,2,2023-02-01T08:54:57,2023-02-01T08:55:51,1,0,Standard rate,Manhattan,West Chelsea/Hudson Yards,Manhattan,West Chelsea/Hudson Yards,Cash,3,0,0.5,0,0,1,7
+31442,2,2023-02-01T12:27:29,2023-02-01T12:27:55,1,0.02,Standard rate,Manhattan,Upper West Side South,Manhattan,Upper West Side South,Cash,3,0,0.5,0,0,1,7
+16033,2,2023-02-01T09:02:47,2023-02-01T09:03:14,1,0,Standard rate,Manhattan,West Chelsea/Hudson Yards,Manhattan,West Chelsea/Hudson Yards,Cash,3,0,0.5,0,0,1,7
+17311,2,2023-02-01T09:58:55,2023-02-01T10:05:21,1,0,Standard rate,Manhattan,Clinton East,Manhattan,Clinton East,Cash,3,0,0.5,0,0,1,7
+47421,2,2023-02-01T14:45:32,2023-02-01T14:46:08,1,0.03,Standard rate,Manhattan,Murray Hill,Manhattan,Murray Hill,Cash,3,0,0.5,0,0,1,7
+111448,2,2023-02-02T07:44:32,2023-02-02T07:44:58,1,0.02,Standard rate,Manhattan,Yorkville West,Manhattan,Yorkville West,Cash,3,0,0.5,0,0,1,7
+46256,2,2023-02-01T14:38:31,2023-02-01T14:39:19,1,0.04,Standard rate,Manhattan,Midtown East,Manhattan,Midtown East,Cash,3,0,0.5,0,0,1,7
+47121,2,2023-02-01T14:01:20,2023-02-01T14:02:12,1,0,Standard rate,Manhattan,Midtown North,Manhattan,Midtown North,Cash,3,0,0.5,0,0,1,7
+47516,2,2023-02-01T14:13:54,2023-02-01T14:14:15,1,0.06,Standard rate,Manhattan,Upper East Side North,Manhattan,Yorkville West,Dispute,3,0,0.5,0,0,1,7
+75359,2,2023-02-01T18:15:50,2023-02-01T18:15:53,1,0,Standard rate,Manhattan,UN/Turtle Bay South,Manhattan,UN/Turtle Bay South,Dispute,3,0,0.5,0,0,1,7
+23438,2,2023-02-01T10:09:38,2023-02-01T10:10:14,1,0.05,Standard rate,Manhattan,Central Park,Manhattan,Central Park,Credit card,3,0,0.5,0,0,1,7
+3727,2,2023-02-01T06:05:11,2023-02-01T06:05:50,1,0,Standard rate,Manhattan,Upper West Side South,Manhattan,Upper West Side South,Dispute,3,0,0.5,0,0,1,7
+14071,2,2023-02-01T08:54:39,2023-02-01T08:54:50,1,0,Standard rate,Manhattan,Midtown North,Manhattan,Midtown North,Cash,3,0,0.5,0,0,1,7
+35308,2,2023-02-01T12:30:30,2023-02-01T12:31:12,1,0.11,Standard rate,Manhattan,Lincoln Square East,Manhattan,Lincoln Square East,Dispute,3,0,0.5,0,0,1,7
+29813,2,2023-02-01T11:02:06,2023-02-01T11:02:19,1,0,Standard rate,Manhattan,Clinton East,Manhattan,Clinton West,Dispute,3,0,0.5,0,0,1,7
+7965,2,2023-02-01T07:35:52,2023-02-01T07:36:00,1,0.01,Standard rate,Manhattan,Central Park,Manhattan,Central Park,Cash,3,0,0.5,0,0,1,7
+12477,2,2023-02-01T08:05:41,2023-02-01T08:06:07,1,0.02,Standard rate,Manhattan,Union Sq,Manhattan,Greenwich Village North,Credit card,3,0,0.5,0,0,1,7
+18810,2,2023-02-01T09:30:03,2023-02-01T09:34:35,1,0,Standard rate,Manhattan,Upper East Side North,Manhattan,Upper East Side South,Cash,3,0,0.5,0,0,1,7
+25996,2,2023-02-01T11:51:41,2023-02-01T11:51:49,1,0,Standard rate,Manhattan,Lincoln Square West,Manhattan,Lincoln Square West,Dispute,3,0,0.5,0,0,1,7
+51366,2,2023-02-01T15:07:57,2023-02-01T15:08:17,6,0,Standard rate,Manhattan,Upper East Side North,Manhattan,Upper East Side North,No charge,3,0,0.5,0,0,1,7
+46410,2,2023-02-01T14:48:34,2023-02-01T14:48:45,1,0,Standard rate,Manhattan,Penn Station/Madison Sq West,Manhattan,Penn Station/Madison Sq West,Dispute,3,0,0.5,0,0,1,7
+51688,2,2023-02-01T15:01:46,2023-02-01T15:02:22,1,0.01,Standard rate,Manhattan,Upper West Side North,Manhattan,Upper West Side South,Dispute,3,0,0.5,0,0,1,7
+41089,2,2023-02-01T13:25:32,2023-02-01T13:25:46,1,0,Standard rate,Manhattan,Midtown East,Manhattan,Gramercy,Cash,3,0,0.5,0,0,1,7
+24317,2,2023-02-01T10:16:11,2023-02-01T10:16:55,1,0.03,Standard rate,Manhattan,East Chelsea,Manhattan,Penn Station/Madison Sq West,No charge,3,0,0.5,0,0,1,7
+45672,2,2023-02-01T14:14:02,2023-02-01T14:14:07,1,0.01,Standard rate,Manhattan,Midtown South,Manhattan,Midtown South,Cash,3,0,0.5,0,0,1,7
+53098,2,2023-02-01T15:52:27,2023-02-01T15:52:35,1,0,Standard rate,Manhattan,Midtown South,Manhattan,Midtown South,Cash,3,0,0.5,0,0,1,7
+31275,2,2023-02-01T12:02:28,2023-02-01T12:02:54,2,0.01,Standard rate,Manhattan,Midtown East,Manhattan,Midtown East,No charge,3,0,0.5,0,0,1,7
+4248,2,2023-02-01T06:48:34,2023-02-01T06:48:49,1,0.02,Standard rate,Manhattan,Midtown East,Manhattan,Midtown East,Cash,3,0,0.5,0,0,1,7
+40032,2,2023-02-01T13:01:53,2023-02-01T13:02:34,1,0.12,Standard rate,Manhattan,Flatiron,Manhattan,Union Sq,Dispute,3,0,0.5,0,0,1,7
+28269,2,2023-02-01T11:27:11,2023-02-01T11:28:08,1,0.03,Standard rate,Manhattan,Upper East Side North,Manhattan,Upper East Side North,Dispute,3,0,0.5,0,0,1,7
+41407,2,2023-02-01T13:47:56,2023-02-01T13:48:22,1,0,Standard rate,Manhattan,Upper East Side South,Manhattan,Upper East Side South,Cash,3,0,0.5,0,0,1,7
+52944,2,2023-02-01T15:46:18,2023-02-01T15:46:49,1,0.16,Standard rate,Manhattan,Clinton East,Manhattan,Clinton East,Dispute,3,0,0.5,0,0,1,7
+15635,2,2023-02-01T09:32:24,2023-02-01T09:32:34,1,0.01,Standard rate,Manhattan,Midtown South,Manhattan,Midtown South,Dispute,3,0,0.5,0,0,1,7
+29912,2,2023-02-01T11:10:50,2023-02-01T11:10:56,1,0,Standard rate,Manhattan,Clinton West,Manhattan,Clinton West,Cash,3,0,0.5,0,0,1,7
+46915,2,2023-02-01T14:28:03,2023-02-01T14:28:07,1,0.01,Standard rate,Manhattan,East Harlem South,Manhattan,East Harlem South,Cash,3,0,0.5,0,0,1,7
+23662,2,2023-02-01T10:18:08,2023-02-01T10:19:03,1,0.04,Standard rate,Manhattan,Upper West Side North,Manhattan,Upper West Side South,Cash,3,0,0.5,0,0,1,7
+36199,2,2023-02-01T13:11:37,2023-02-01T13:12:20,1,0.06,Standard rate,Manhattan,Lower East Side,Manhattan,Lower East Side,No charge,3,0,0.5,0,0,1,7
+46409,2,2023-02-01T14:48:34,2023-02-01T14:48:45,1,0,Standard rate,Manhattan,Penn Station/Madison Sq West,Manhattan,Penn Station/Madison Sq West,Dispute,-3,0,-0.5,0,0,-1,-7
+52943,2,2023-02-01T15:46:18,2023-02-01T15:46:49,1,0.16,Standard rate,Manhattan,Clinton East,Manhattan,Clinton East,Dispute,-3,0,-0.5,0,0,-1,-7
+113476,2,2023-02-02T07:05:35,2023-02-02T07:06:15,1,0,Standard rate,Manhattan,East Chelsea,Manhattan,East Chelsea,Dispute,-3,0,-0.5,0,0,-1,-7
+3751,2,2023-02-01T06:16:43,2023-02-01T06:16:51,1,0,Standard rate,Manhattan,Times Sq/Theatre District,Manhattan,Times Sq/Theatre District,Dispute,-3,0,-0.5,0,0,-1,-7
+16444,2,2023-02-01T09:10:15,2023-02-01T09:10:54,1,0.01,Standard rate,Manhattan,Midtown East,Manhattan,Midtown East,Cash,-3,0,-0.5,0,0,-1,-7
+51365,2,2023-02-01T15:07:57,2023-02-01T15:08:17,6,0,Standard rate,Manhattan,Upper East Side North,Manhattan,Upper East Side North,No charge,-3,0,-0.5,0,0,-1,-7
+53463,2,2023-02-01T15:48:49,2023-02-01T15:49:41,1,0.01,Standard rate,Manhattan,Murray Hill,Manhattan,Murray Hill,No charge,-3,0,-0.5,0,0,-1,-7
+25995,2,2023-02-01T11:51:41,2023-02-01T11:51:49,1,0,Standard rate,Manhattan,Lincoln Square West,Manhattan,Lincoln Square West,Dispute,-3,0,-0.5,0,0,-1,-7
+33776,2,2023-02-01T12:15:57,2023-02-01T12:16:16,1,0,Standard rate,Manhattan,Sutton Place/Turtle Bay North,Manhattan,Sutton Place/Turtle Bay North,No charge,-3,0,-0.5,0,0,-1,-7
+36198,2,2023-02-01T13:11:37,2023-02-01T13:12:20,1,0.06,Standard rate,Manhattan,Lower East Side,Manhattan,Lower East Side,No charge,-3,0,-0.5,0,0,-1,-7
+45671,2,2023-02-01T14:14:02,2023-02-01T14:14:07,1,0.01,Standard rate,Manhattan,Midtown South,Manhattan,Midtown South,Cash,-3,0,-0.5,0,0,-1,-7
+75358,2,2023-02-01T18:15:50,2023-02-01T18:15:53,1,0,Standard rate,Manhattan,UN/Turtle Bay South,Manhattan,UN/Turtle Bay South,Dispute,-3,0,-0.5,0,0,-1,-7
+35307,2,2023-02-01T12:30:30,2023-02-01T12:31:12,1,0.11,Standard rate,Manhattan,Lincoln Square East,Manhattan,Lincoln Square East,Dispute,-3,0,-0.5,0,0,-1,-7
+24316,2,2023-02-01T10:16:11,2023-02-01T10:16:55,1,0.03,Standard rate,Manhattan,East Chelsea,Manhattan,Penn Station/Madison Sq West,No charge,-3,0,-0.5,0,0,-1,-7
+51687,2,2023-02-01T15:01:46,2023-02-01T15:02:22,1,0.01,Standard rate,Manhattan,Upper West Side North,Manhattan,Upper West Side North,Dispute,-3,0,-0.5,0,0,-1,-7
+15634,2,2023-02-01T09:32:24,2023-02-01T09:32:34,1,0.01,Standard rate,Manhattan,Midtown South,Manhattan,Midtown South,Dispute,-3,0,-0.5,0,0,-1,-7
+3726,2,2023-02-01T06:05:11,2023-02-01T06:05:50,1,0,Standard rate,Manhattan,Upper West Side South,Manhattan,Upper West Side South,Dispute,-3,0,-0.5,0,0,-1,-7
+31274,2,2023-02-01T12:02:28,2023-02-01T12:02:54,2,0.01,Standard rate,Manhattan,Midtown East,Manhattan,Midtown East,No charge,-3,0,-0.5,0,0,-1,-7
+40031,2,2023-02-01T13:01:53,2023-02-01T13:02:34,1,0.12,Standard rate,Manhattan,Flatiron,Manhattan,Flatiron,Dispute,-3,0,-0.5,0,0,-1,-7
+42689,2,2023-02-01T14:30:26,2023-02-01T14:30:57,1,0.06,Standard rate,Manhattan,Midtown Center,Manhattan,Midtown Center,No charge,-3,0,-0.5,0,0,-1,-7
+109531,2,2023-02-02T06:57:00,2023-02-02T06:57:44,1,0.11,Standard rate,Manhattan,Midtown East,Manhattan,Midtown Center,No charge,-3,0,-0.5,0,0,-1,-7
+28268,2,2023-02-01T11:27:11,2023-02-01T11:28:08,1,0.03,Standard rate,Manhattan,Upper East Side North,Manhattan,Upper East Side North,Dispute,-3,0,-0.5,0,0,-1,-7
+47515,2,2023-02-01T14:13:54,2023-02-01T14:14:15,1,0.06,Standard rate,Manhattan,Upper East Side North,Manhattan,Upper East Side North,Dispute,-3,0,-0.5,0,0,-1,-7
+29812,2,2023-02-01T11:02:06,2023-02-01T11:02:19,1,0,Standard rate,Manhattan,Clinton East,Manhattan,Clinton East,Dispute,-3,0,-0.5,0,0,-1,-7
+72570,2,2023-02-01T18:26:18,2023-02-01T18:26:30,1,0,Negotiated fare,Unknown,NV,Unknown,NV,Credit card,6.5,0,0,0,0,1,7.5
+10555,2,2023-02-01T08:51:39,2023-02-01T08:56:09,2,0.66,Standard rate,Manhattan,East Harlem South,Manhattan,East Harlem South,Cash,6.5,0,0.5,0,0,1,8
+29242,2,2023-02-01T11:37:54,2023-02-01T11:42:16,1,0.97,Standard rate,Manhattan,East Harlem South,Manhattan,East Harlem South,Credit card,6.5,0,0.5,0,0,1,8
+109059,1,2023-02-02T06:42:09,2023-02-02T06:47:20,1,1.1,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Long Island City/Hunters Point,Cash,6.5,0,0.5,0,0,1,8
+29428,1,2023-02-01T11:18:12,2023-02-01T11:18:53,1,0,Negotiated fare,Manhattan,Midtown Center,Manhattan,Midtown Center,Credit card,7,0,0,0,0,1,8
+111739,1,2023-02-02T07:08:54,2023-02-02T07:12:28,1,0.8,Standard rate,Manhattan,East Harlem South,Manhattan,East Harlem North,Cash,6.5,0,0.5,0,0,1,8
+51667,2,2023-02-01T15:19:40,2023-02-01T15:23:58,1,0.81,Standard rate,Manhattan,East Harlem South,Manhattan,East Harlem North,Cash,6.5,0,0.5,0,0,1,8
+113675,2,2023-02-02T07:55:15,2023-02-02T07:55:43,1,0.13,Standard rate,Manhattan,Financial District North,Manhattan,Financial District South,Credit card,3,0,0.5,1,0,1,8
+38931,2,2023-02-01T13:08:23,2023-02-01T13:12:57,3,0.67,Standard rate,Manhattan,Morningside Heights,Manhattan,Morningside Heights,Cash,6.5,0,0.5,0,0,1,8
+25644,2,2023-02-01T11:25:56,2023-02-01T11:30:08,6,0.71,Standard rate,Manhattan,Morningside Heights,Manhattan,Bloomingdale,Cash,6.5,0,0.5,0,0,1,8
+24906,1,2023-02-01T11:09:46,2023-02-01T11:21:15,1,1,Standard rate,Manhattan,East Harlem South,Manhattan,East Harlem North,Cash,6.5,0,0.5,0,0,1,8
+35080,2,2023-02-01T12:37:33,2023-02-01T12:41:22,1,0.84,Standard rate,Manhattan,Upper West Side North,Manhattan,Morningside Heights,Cash,6.5,0,0.5,0,0,1,8
+10910,2,2023-02-01T08:12:12,2023-02-01T08:19:31,2,0.57,Standard rate,Manhattan,East Harlem North,Manhattan,Central Harlem,Cash,6.5,0,0.5,0,0,1,8
+32179,2,2023-02-01T12:31:59,2023-02-01T12:36:55,1,0.76,Standard rate,Manhattan,East Harlem South,Manhattan,Central Harlem,Cash,6.5,0,0.5,0,0,1,8
+5238,1,2023-02-01T07:03:28,2023-02-01T07:08:31,1,1,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Long Island City/Hunters Point,Cash,6.5,0,0.5,0,0,1,8
+35775,2,2023-02-01T13:55:39,2023-02-01T14:00:05,1,0.79,Standard rate,Manhattan,East Harlem North,Manhattan,East Harlem North,Cash,6.5,0,0.5,0,0,1,8
+42514,1,2023-02-01T14:49:04,2023-02-01T14:54:24,1,0.6,Standard rate,Manhattan,Morningside Heights,Manhattan,Morningside Heights,Cash,6.5,0,0.5,0,0,1,8
+17206,1,2023-02-01T09:16:55,2023-02-01T09:23:06,1,0.7,Standard rate,Manhattan,Morningside Heights,Manhattan,Manhattanville,Credit card,6.5,0,0.5,0,0,1,8
+19454,2,2023-02-01T10:04:38,2023-02-01T10:08:35,1,0.86,Standard rate,Queens,Astoria,Queens,Old Astoria,Cash,6.5,0,0.5,0,0,1,8
+9571,2,2023-02-01T08:58:29,2023-02-01T09:02:54,1,0.8,Standard rate,Manhattan,Central Harlem,Manhattan,Central Harlem,Credit card,6.5,0,0.5,0,0,1,8
+12416,2,2023-02-01T08:20:33,2023-02-01T08:24:42,1,0.66,Standard rate,Manhattan,Manhattanville,Manhattan,Manhattanville,Cash,6.5,0,0.5,0,0,1,8
+32744,1,2023-02-01T12:27:03,2023-02-01T12:31:20,1,0.7,Standard rate,Manhattan,East Harlem North,Manhattan,Central Harlem,Cash,6.5,0,0.5,0,0,1,8
+21372,2,2023-02-01T10:57:45,2023-02-01T11:01:08,1,0.83,Standard rate,Manhattan,Upper West Side North,Manhattan,Upper East Side North,Cash,6.5,0,0.5,0,0,1,8
+43055,2,2023-02-01T14:16:33,2023-02-01T14:20:13,1,0.74,Standard rate,Manhattan,Manhattan Valley,Manhattan,Manhattan Valley,Cash,6.5,0,0.5,0,0,1,8
+16004,2,2023-02-01T09:08:44,2023-02-01T09:13:43,1,0.72,Standard rate,Manhattan,Central Harlem,Manhattan,Central Harlem North,Cash,6.5,0,0.5,0,0,1,8
+55732,2,2023-02-01T16:11:09,2023-02-01T16:15:21,1,0.64,Standard rate,Manhattan,Morningside Heights,Manhattan,Bloomingdale,Credit card,6.5,0,0.5,0,0,1,8
+109718,2,2023-02-02T06:06:40,2023-02-02T06:09:27,1,1.04,Standard rate,Manhattan,Upper West Side North,Manhattan,Upper East Side North,Cash,6.5,0,0.5,0,0,1,8
+15071,1,2023-02-01T09:03:51,2023-02-01T09:08:59,1,0.6,Standard rate,Manhattan,East Harlem North,Manhattan,Central Harlem,Cash,6.5,0,0.5,0,0,1,8
+39237,2,2023-02-01T13:02:53,2023-02-01T13:07:42,1,0.84,Standard rate,Manhattan,East Harlem South,Manhattan,East Harlem North,Credit card,6.5,0,0.5,0,0,1,8
+3828,1,2023-02-01T06:53:51,2023-02-01T06:56:37,1,0.9,Standard rate,Manhattan,Central Harlem North,Manhattan,Central Harlem,Cash,6.5,0,0.5,0,0,1,8
+18768,2,2023-02-01T09:49:16,2023-02-01T09:52:50,1,0.78,Standard rate,Manhattan,East Harlem South,Manhattan,East Harlem North,Credit card,6.5,0,0.5,0,0,1,8
+34720,1,2023-02-01T12:13:09,2023-02-01T12:17:07,1,0.9,Standard rate,Bronx,Norwood,Bronx,Williamsbridge/Olinville,Cash,6.5,0,0.5,0,0,1,8
+37869,2,2023-02-01T13:47:39,2023-02-01T13:51:18,1,0.82,Standard rate,Manhattan,Bloomingdale,Manhattan,Morningside Heights,Cash,6.5,0,0.5,0,0,1,8
+28874,2,2023-02-01T11:23:16,2023-02-01T11:28:16,1,0.88,Standard rate,Manhattan,Upper West Side North,Manhattan,Morningside Heights,Cash,6.5,0,0.5,0,0,1,8
+41992,1,2023-02-01T14:45:36,2023-02-01T14:49:50,2,0.5,Standard rate,Manhattan,Bloomingdale,Manhattan,Upper West Side North,Cash,6.5,0,0.5,0,0,1,8
+31739,1,2023-02-01T12:34:40,2023-02-01T12:40:41,1,0.7,Standard rate,Manhattan,East Harlem South,Manhattan,East Harlem North,Cash,6.5,0,0.5,0,0,1,8
+47519,1,2023-02-01T15:17:00,2023-02-01T15:22:05,1,0.8,Standard rate,Queens,Queensbridge/Ravenswood,Queens,Long Island City/Hunters Point,Cash,6.5,0,0.5,0,0,1,8
+3666,2,2023-02-01T06:16:37,2023-02-01T06:20:30,1,1,Standard rate,Queens,Jackson Heights,Queens,Jackson Heights,Credit card,6.5,0,0.5,0,0,1,8
+5993,2,2023-02-01T07:58:37,2023-02-01T08:03:23,1,0.73,Standard rate,Manhattan,Manhattan Valley,Manhattan,Manhattan Valley,Credit card,6.5,0,0.5,0,0,1,8
+47917,2,2023-02-01T15:47:54,2023-02-01T15:52:26,1,0.8,Standard rate,Manhattan,Manhattan Valley,Manhattan,Morningside Heights,Cash,6.5,0,0.5,0,0,1,8
+44305,2,2023-02-01T14:38:48,2023-02-01T14:44:53,1,0.78,Standard rate,Manhattan,Central Harlem,Manhattan,Morningside Heights,Cash,6.5,0,0.5,0,0,1,8
+10278,1,2023-02-01T08:41:38,2023-02-01T08:45:51,2,0.6,Standard rate,Manhattan,East Harlem South,Manhattan,East Harlem South,Cash,6.5,0,0.5,0,0,1,8
+29637,2,2023-02-01T11:51:33,2023-02-01T11:56:16,1,0.74,Standard rate,Manhattan,Upper West Side North,Manhattan,Morningside Heights,Cash,6.5,0,0.5,0,0,1,8
+11266,2,2023-02-01T08:26:51,2023-02-01T08:31:51,1,0.7,Standard rate,Manhattan,Central Harlem North,Manhattan,Manhattanville,Cash,6.5,0,0.5,0,0,1,8
+32914,2,2023-02-01T12:16:43,2023-02-01T12:18:27,1,0.14,Standard rate,Manhattan,Lincoln Square West,Manhattan,Midtown Center,Credit card,3.7,0,0.5,0.3,0,1,8
+40966,2,2023-02-01T13:52:46,2023-02-01T13:56:06,1,0.85,Standard rate,Manhattan,East Harlem North,Manhattan,Yorkville West,Cash,6.5,0,0.5,0,0,1,8
+113892,2,2023-02-02T07:33:18,2023-02-02T07:37:50,1,0.85,Standard rate,Manhattan,East Harlem North,Manhattan,East Harlem South,Cash,6.5,0,0.5,0,0,1,8
+21777,2,2023-02-01T10:16:24,2023-02-01T10:21:19,2,0.5,Standard rate,Manhattan,Manhattanville,Manhattan,Hamilton Heights,Cash,6.5,0,0.5,0,0,1,8
+23546,1,2023-02-01T10:33:10,2023-02-01T10:38:07,1,0.7,Standard rate,Manhattan,East Harlem North,Manhattan,East Harlem South,Cash,6.5,0,0.5,0,0,1,8
+20554,1,2023-02-01T10:47:30,2023-02-01T10:51:52,1,0.8,Standard rate,Queens,Forest Hills,Queens,Forest Hills,Cash,6.5,0,0.5,0,0,1,8
+13385,2,2023-02-01T08:55:29,2023-02-01T09:00:37,1,0.45,Standard rate,Manhattan,Central Harlem North,Manhattan,East Harlem South,Credit card,6.5,0,0.5,0,0,1,8
+38817,2,2023-02-01T13:53:26,2023-02-01T13:57:38,1,0.7,Standard rate,Manhattan,Manhattanville,Manhattan,Manhattanville,Cash,6.5,0,0.5,0,0,1,8
+50848,2,2023-02-01T15:49:35,2023-02-01T15:53:11,1,0.74,Standard rate,Manhattan,Manhattan Valley,Manhattan,Bloomingdale,Credit card,5.8,0,0.5,1.2,0,1,8.5
+39087,2,2023-02-01T13:18:32,2023-02-01T13:23:16,1,0.44,Standard rate,Manhattan,Morningside Heights,Manhattan,Morningside Heights,Credit card,6.5,0,0.5,1,0,1,9
+33953,2,2023-02-01T12:56:51,2023-02-01T12:59:57,1,1.05,Standard rate,Manhattan,Central Harlem,Manhattan,East Harlem South,Credit card,6.5,0,0.5,1,0,1,9
+11978,1,2023-02-01T08:07:30,2023-02-01T08:10:33,2,0.9,Standard rate,Manhattan,Morningside Heights,Manhattan,Bloomingdale,Credit card,6.5,0,0.5,1,0,1,9
+15931,2,2023-02-01T09:59:04,2023-02-01T10:01:27,5,0.51,Standard rate,Queens,Astoria,Queens,Long Island City/Queens Plaza,Credit card,5.1,0,0.5,2.4,0,1,9
+15841,2,2023-02-01T09:04:27,2023-02-01T09:08:55,1,0.86,Standard rate,Manhattan,Manhattan Valley,Manhattan,Upper West Side North,Credit card,6.5,0,0.5,1,0,1,9
+16644,2,2023-02-01T09:41:03,2023-02-01T09:45:30,1,0.78,Standard rate,Manhattan,East Harlem South,Manhattan,East Harlem South,Credit card,6.5,0,0.5,1,0,1,9
+14160,2,2023-02-01T09:44:23,2023-02-01T09:49:21,1,0.54,Standard rate,Brooklyn,Williamsburg (South Side),Brooklyn,Williamsburg (South Side),Credit card,6.5,0,0.5,1,0,1,9
+50043,2,2023-02-01T15:01:55,2023-02-01T15:05:52,4,0.93,Standard rate,Manhattan,Upper West Side North,Manhattan,Morningside Heights,Credit card,6.5,0,0.5,1,0,1,9
+44929,2,2023-02-01T14:06:33,2023-02-01T14:10:02,1,0.75,Standard rate,Manhattan,Manhattan Valley,Manhattan,Manhattan Valley,Credit card,6.5,0,0.5,1.5,0,1,9.5
+20085,2,2023-02-01T10:16:07,2023-02-01T10:16:28,1,0.08,Standard rate,Manhattan,Flatiron,Manhattan,Flatiron,Credit card,3,0,0.5,3,0,1,10
+108860,2,2023-02-02T05:55:19,2023-02-02T05:55:27,1,0,Negotiated fare,Queens,Richmond Hill,Queens,Richmond Hill,Cash,9,0,0,0,0,1,10
+47046,2,2023-02-01T14:56:27,2023-02-01T14:58:15,1,0.34,Standard rate,Manhattan,Flatiron,Manhattan,Flatiron,Credit card,4.4,0,0.5,1.6,0,1,10
+32505,1,2023-02-01T12:51:26,2023-02-01T12:55:49,1,0.6,Standard rate,Manhattan,Morningside Heights,Manhattan,Morningside Heights,Credit card,6.5,0,0.5,2,0,1,10
+21778,2,2023-02-01T10:25:29,2023-02-01T10:29:49,2,0.63,Standard rate,Manhattan,Hamilton Heights,Manhattan,Central Harlem North,Credit card,6.5,0,0.5,2,0,1,10
+29746,2,2023-02-01T11:45:30,2023-02-01T11:50:21,1,0.68,Standard rate,Manhattan,Morningside Heights,Manhattan,Manhattan Valley,Credit card,6.5,0,0.5,2,0,1,10
+15313,2,2023-02-01T09:19:04,2023-02-01T09:22:06,1,0.69,Standard rate,Manhattan,Bloomingdale,Manhattan,Upper West Side North,Credit card,5.8,0,0.5,2.7,0,1,10
+10810,2,2023-02-01T08:00:41,2023-02-01T08:03:30,1,0.37,Standard rate,Manhattan,Upper East Side South,Manhattan,Upper East Side South,Credit card,5.1,0,0.5,0.9,0,1,10
+33119,1,2023-02-01T12:44:19,2023-02-01T12:48:04,1,0.8,Standard rate,Manhattan,Upper West Side North,Manhattan,Morningside Heights,Credit card,6.5,0,0.5,2,0,1,10
+48777,2,2023-02-01T15:29:31,2023-02-01T15:33:35,1,0.66,Standard rate,Manhattan,Manhattan Valley,Manhattan,Morningside Heights,Credit card,6.5,0,0.5,2,0,1,10
+13054,2,2023-02-01T08:04:48,2023-02-01T08:07:47,1,0.55,Standard rate,Manhattan,Lenox Hill East,Manhattan,Yorkville West,Credit card,5.1,0,0.5,0.9,0,1,10
+34658,1,2023-02-01T12:41:30,2023-02-01T12:47:06,1,0.8,Standard rate,Manhattan,East Harlem South,Manhattan,East Harlem South,Credit card,7.2,0,0.5,1.3,0,1,10
+34371,2,2023-02-01T12:00:36,2023-02-01T12:05:32,1,0.56,Standard rate,Brooklyn,Cobble Hill,Brooklyn,Brooklyn Heights,Credit card,6.5,0,0.5,2,0,1,10
+110103,2,2023-02-02T06:40:18,2023-02-02T06:44:46,1,0.81,Standard rate,Manhattan,Bloomingdale,Manhattan,East Harlem South,Credit card,7.2,0,0.5,1.3,0,1,10
+59792,2,2023-02-01T16:43:09,2023-02-01T16:47:57,1,0.94,Standard rate,Manhattan,Central Park,Manhattan,Upper West Side North,Credit card,7.2,0,0.5,1.3,0,1,10
+34301,2,2023-02-01T12:35:05,2023-02-01T12:36:52,1,0.39,Standard rate,Manhattan,Upper West Side South,Manhattan,Upper West Side North,Credit card,4.4,0,0.5,1.6,0,1,10
+113566,2,2023-02-02T07:16:46,2023-02-02T07:18:58,1,0.62,Standard rate,Manhattan,Union Sq,Manhattan,Greenwich Village North,Credit card,5.1,0,0.5,0.9,0,1,10
+44486,2,2023-02-01T14:00:29,2023-02-01T14:04:42,1,0.66,Standard rate,Manhattan,Midtown North,Manhattan,Midtown Center,Credit card,5.8,0,0.5,0.2,0,1,10
+9523,2,2023-02-01T08:07:46,2023-02-01T08:12:41,1,0.63,Standard rate,Manhattan,Upper East Side South,Manhattan,Upper East Side South,Cash,6.5,0,0.5,0,0,1,10.5
+22947,2,2023-02-01T10:54:27,2023-02-01T10:56:29,5,0.31,Standard rate,Manhattan,Midtown Center,Manhattan,Midtown North,Credit card,4.4,0,0.5,2.1,0,1,10.5
+33326,2,2023-02-01T12:04:27,2023-02-01T12:10:19,1,0,Standard rate,Manhattan,Greenwich Village South,Manhattan,Union Sq,Cash,6.5,0,0.5,0,0,1,10.5
+43349,2,2023-02-01T14:04:17,2023-02-01T14:09:02,1,0.81,Standard rate,Manhattan,Yorkville East,Manhattan,Lenox Hill West,Cash,6.5,0,0.5,0,0,1,10.5
+37260,2,2023-02-01T13:23:57,2023-02-01T13:28:31,1,0.62,Standard rate,Manhattan,Lincoln Square West,Manhattan,Upper West Side South,Cash,6.5,0,0.5,0,0,1,10.5
+5056,2,2023-02-01T06:41:07,2023-02-01T06:44:49,1,0.8,Standard rate,Manhattan,Times Sq/Theatre District,Manhattan,Midtown Center,Cash,6.5,0,0.5,0,0,1,10.5
+11405,2,2023-02-01T08:21:23,2023-02-01T08:25:56,1,0.71,Standard rate,Manhattan,Yorkville East,Manhattan,Upper East Side North,Dispute,6.5,0,0.5,0,0,1,10.5
+33369,2,2023-02-01T12:42:54,2023-02-01T12:47:26,2,0.56,Standard rate,Manhattan,Upper East Side North,Manhattan,Upper East Side North,Cash,6.5,0,0.5,0,0,1,10.5
+43235,2,2023-02-01T14:55:20,2023-02-01T15:00:05,1,0.65,Standard rate,Manhattan,Upper West Side South,Manhattan,Upper West Side South,Cash,6.5,0,0.5,0,0,1,10.5
+46641,2,2023-02-01T14:38:34,2023-02-01T14:43:38,1,0.64,Standard rate,Manhattan,Sutton Place/Turtle Bay North,Manhattan,Midtown East,Credit card,6.5,0,0.5,0,0,1,10.5
+46842,2,2023-02-01T14:35:46,2023-02-01T14:40:21,1,0.7,Standard rate,Manhattan,Clinton East,Manhattan,Midtown Center,Cash,6.5,0,0.5,0,0,1,10.5
+48830,2,2023-02-01T15:46:55,2023-02-01T15:52:13,1,0.66,Standard rate,Manhattan,Gramercy,Manhattan,Union Sq,Credit card,6.5,0,0.5,0,0,1,10.5
+109972,2,2023-02-02T06:51:34,2023-02-02T06:55:07,1,0.91,Standard rate,Manhattan,Sutton Place/Turtle Bay North,Manhattan,Lenox Hill West,Cash,6.5,0,0.5,0,0,1,10.5
+6019,2,2023-02-01T07:42:12,2023-02-01T07:46:30,1,0.61,Standard rate,Manhattan,Upper East Side South,Manhattan,Upper East Side North,Cash,6.5,0,0.5,0,0,1,10.5
+50478,2,2023-02-01T15:22:57,2023-02-01T15:27:40,1,0.77,Standard rate,Manhattan,Flatiron,Manhattan,East Chelsea,Cash,6.5,0,0.5,0,0,1,10.5
+112095,2,2023-02-02T07:12:18,2023-02-02T07:17:11,2,0.76,Standard rate,Manhattan,Upper East Side South,Manhattan,Lenox Hill East,Cash,6.5,0,0.5,0,0,1,10.5
+10272,2,2023-02-01T08:29:44,2023-02-01T08:33:42,1,0.8,Standard rate,Manhattan,Yorkville East,Manhattan,Lenox Hill East,Cash,6.5,0,0.5,0,0,1,10.5
+16862,2,2023-02-01T09:16:12,2023-02-01T09:21:01,1,0.71,Standard rate,Manhattan,UN/Turtle Bay South,Manhattan,Upper East Side South,Credit card,6.5,0,0.5,0,0,1,10.5
+18330,2,2023-02-01T09:14:41,2023-02-01T09:20:26,2,0.58,Standard rate,Manhattan,Lincoln Square East,Manhattan,Lincoln Square West,Cash,6.5,0,0.5,0,0,1,10.5
+21042,2,2023-02-01T10:53:23,2023-02-01T10:58:44,1,0.6,Standard rate,Manhattan,UN/Turtle Bay South,Manhattan,UN/Turtle Bay South,Cash,6.5,0,0.5,0,0,1,10.5
+39935,2,2023-02-01T13:41:40,2023-02-01T13:46:41,1,0.71,Standard rate,Manhattan,Meatpacking/West Village West,Manhattan,Meatpacking/West Village West,Cash,6.5,0,0.5,0,0,1,10.5
+40066,2,2023-02-01T13:14:39,2023-02-01T13:19:36,1,0.51,Standard rate,Manhattan,Flatiron,Manhattan,Union Sq,Dispute,6.5,0,0.5,0,0,1,10.5
+40229,2,2023-02-01T13:28:04,2023-02-01T13:32:25,1,0.87,Standard rate,Manhattan,West Chelsea/Hudson Yards,Manhattan,Penn Station/Madison Sq West,Cash,6.5,0,0.5,0,0,1,10.5
+42817,2,2023-02-01T14:55:32,2023-02-01T14:59:58,1,0.5,Standard rate,Manhattan,Yorkville West,Manhattan,Yorkville East,Cash,6.5,0,0.5,0,0,1,10.5
+52379,2,2023-02-01T15:35:52,2023-02-01T15:41:21,1,0.65,Standard rate,Manhattan,Upper East Side South,Manhattan,Upper East Side South,Cash,6.5,0,0.5,0,0,1,10.5
+57127,2,2023-02-01T16:05:58,2023-02-01T16:08:27,1,0.47,Standard rate,Manhattan,Midtown Center,Manhattan,Midtown East,Credit card,4.4,0,0.5,2.1,0,1,10.5
+7697,2,2023-02-01T07:40:30,2023-02-01T07:44:14,1,0.95,Standard rate,Manhattan,East Harlem North,Manhattan,Yorkville West,Cash,6.5,0,0.5,0,0,1,10.5
+26862,2,2023-02-01T11:34:44,2023-02-01T11:39:30,1,0.61,Standard rate,Manhattan,Yorkville West,Manhattan,Yorkville East,Cash,6.5,0,0.5,0,0,1,10.5
+34367,2,2023-02-01T12:33:52,2023-02-01T12:38:20,1,0.47,Standard rate,Manhattan,Upper West Side South,Manhattan,Upper West Side North,Cash,6.5,0,0.5,0,0,1,10.5
+35629,2,2023-02-01T12:51:28,2023-02-01T12:57:59,1,0,Standard rate,Manhattan,Hudson Sq,Manhattan,Meatpacking/West Village West,Cash,6.5,0,0.5,0,0,1,10.5
+53161,2,2023-02-01T15:16:29,2023-02-01T15:21:00,1,0.65,Standard rate,Manhattan,Times Sq/Theatre District,Manhattan,Penn Station/Madison Sq West,Dispute,6.5,0,0.5,0,0,1,10.5
+109757,2,2023-02-02T06:35:53,2023-02-02T06:37:33,1,0.59,Standard rate,Manhattan,Sutton Place/Turtle Bay North,Manhattan,Lenox Hill East,Credit card,4.4,0,0.5,2.1,0,1,10.5
+111553,2,2023-02-02T07:48:57,2023-02-02T07:53:23,1,0.78,Standard rate,Manhattan,Upper West Side South,Manhattan,Lincoln Square East,Cash,6.5,0,0.5,0,0,1,10.5
+7177,2,2023-02-01T07:53:19,2023-02-01T07:56:49,1,0.84,Standard rate,Manhattan,SoHo,Manhattan,Greenwich Village North,Cash,6.5,0,0.5,0,0,1,10.5
+7699,2,2023-02-01T07:21:56,2023-02-01T07:23:40,1,0.5,Standard rate,Manhattan,Battery Park City,Manhattan,TriBeCa/Civic Center,Credit card,4.4,0,0.5,2.1,0,1,10.5
+11413,2,2023-02-01T08:43:38,2023-02-01T08:45:41,1,0.49,Standard rate,Manhattan,Upper East Side South,Manhattan,Upper East Side South,Credit card,4.4,0,0.5,2.1,0,1,10.5
+22482,2,2023-02-01T10:01:18,2023-02-01T10:05:30,1,0.51,Standard rate,Manhattan,East Chelsea,Manhattan,West Chelsea/Hudson Yards,Cash,6.5,0,0.5,0,0,1,10.5
+32183,2,2023-02-01T12:24:25,2023-02-01T12:28:57,2,0.63,Standard rate,Manhattan,Lincoln Square East,Manhattan,Lincoln Square West,Cash,6.5,0,0.5,0,0,1,10.5
+42749,2,2023-02-01T14:18:26,2023-02-01T14:23:43,1,0.39,Standard rate,Manhattan,Upper East Side South,Manhattan,Central Park,Cash,6.5,0,0.5,0,0,1,10.5
+109516,2,2023-02-02T06:48:55,2023-02-02T06:52:50,3,0.76,Standard rate,Manhattan,Penn Station/Madison Sq West,Manhattan,Garment District,Cash,6.5,0,0.5,0,0,1,10.5
+113246,2,2023-02-02T07:56:47,2023-02-02T08:00:17,1,0.86,Standard rate,Manhattan,Penn Station/Madison Sq West,Manhattan,Union Sq,Credit card,6.5,0,0.5,0,0,1,10.5
+19239,2,2023-02-01T09:48:45,2023-02-01T09:54:11,2,0.56,Standard rate,Manhattan,Lincoln Square East,Manhattan,Lincoln Square West,Cash,6.5,0,0.5,0,0,1,10.5
+39865,2,2023-02-01T13:21:56,2023-02-01T13:24:01,1,0.35,Standard rate,Manhattan,Upper East Side South,Manhattan,Midtown East,Credit card,4.4,0,0.5,2.1,0,1,10.5
+47258,2,2023-02-01T14:35:49,2023-02-01T14:40:49,1,0.68,Standard rate,Manhattan,Murray Hill,Manhattan,Sutton Place/Turtle Bay North,Cash,6.5,0,0.5,0,0,1,10.5
+48634,2,2023-02-01T15:32:48,2023-02-01T15:37:21,4,0.87,Standard rate,Manhattan,Times Sq/Theatre District,Manhattan,Garment District,Dispute,6.5,0,0.5,0,0,1,10.5
+52285,2,2023-02-01T15:54:24,2023-02-01T15:59:15,1,0.55,Standard rate,Manhattan,Upper East Side South,Manhattan,Yorkville West,Cash,6.5,0,0.5,0,0,1,10.5
+53584,2,2023-02-01T15:49:03,2023-02-01T15:53:32,1,0.62,Standard rate,Manhattan,Manhattan Valley,Manhattan,Upper West Side North,Credit card,6.5,0,0.5,0,0,1,10.5
+110214,2,2023-02-02T06:07:02,2023-02-02T06:10:23,1,1.05,Standard rate,Manhattan,Penn Station/Madison Sq West,Manhattan,Midtown North,Cash,6.5,0,0.5,0,0,1,10.5
+8443,2,2023-02-01T07:48:59,2023-02-01T07:53:31,1,0.85,Standard rate,Manhattan,Flatiron,Manhattan,West Chelsea/Hudson Yards,Cash,6.5,0,0.5,0,0,1,10.5
+35022,2,2023-02-01T12:30:12,2023-02-01T12:34:56,1,0.57,Standard rate,Manhattan,Midtown Center,Manhattan,Garment District,Cash,6.5,0,0.5,0,0,1,10.5
+38662,2,2023-02-01T13:47:21,2023-02-01T13:52:52,1,0.45,Standard rate,Manhattan,Kips Bay,Manhattan,Murray Hill,Cash,6.5,0,0.5,0,0,1,10.5
+42160,2,2023-02-01T14:57:11,2023-02-01T15:03:57,1,0.64,Standard rate,Manhattan,Midtown South,Manhattan,Midtown Center,Cash,6.5,0,0.5,0,0,1,10.5
+42655,2,2023-02-01T14:33:47,2023-02-01T14:36:13,4,0.37,Standard rate,Manhattan,UN/Turtle Bay South,Manhattan,UN/Turtle Bay South,Credit card,4.4,0,0.5,2.1,0,1,10.5
+109733,2,2023-02-02T06:38:50,2023-02-02T06:41:18,1,1.13,Standard rate,Manhattan,Upper East Side South,Manhattan,Midtown Center,Cash,6.5,0,0.5,0,0,1,10.5
+3939,2,2023-02-01T06:02:02,2023-02-01T06:05:38,1,0.95,Standard rate,Manhattan,Times Sq/Theatre District,Manhattan,Penn Station/Madison Sq West,Cash,6.5,0,0.5,0,0,1,10.5
+12396,2,2023-02-01T08:36:13,2023-02-01T08:40:47,1,0.47,Standard rate,Manhattan,Sutton Place/Turtle Bay North,Manhattan,Lenox Hill East,Cash,6.5,0,0.5,0,0,1,10.5
+20883,2,2023-02-01T10:49:17,2023-02-01T10:54:30,1,0.72,Standard rate,Manhattan,Midtown East,Manhattan,Midtown North,Cash,6.5,0,0.5,0,0,1,10.5
+27866,2,2023-02-01T11:33:49,2023-02-01T11:39:27,1,0.65,Standard rate,Manhattan,Lenox Hill West,Manhattan,Lenox Hill East,Cash,6.5,0,0.5,0,0,1,10.5
+30521,2,2023-02-01T12:18:59,2023-02-01T12:24:29,1,0.53,Standard rate,Manhattan,West Village,Manhattan,Greenwich Village North,Cash,6.5,0,0.5,0,0,1,10.5
+37509,2,2023-02-01T13:08:35,2023-02-01T13:12:47,5,0.82,Standard rate,Manhattan,Sutton Place/Turtle Bay North,Manhattan,Murray Hill,Cash,6.5,0,0.5,0,0,1,10.5
+39078,2,2023-02-01T13:56:54,2023-02-01T14:00:08,1,0.85,Standard rate,Manhattan,Upper West Side North,Manhattan,Bloomingdale,Cash,6.5,0,0.5,0,0,1,10.5
+45678,2,2023-02-01T14:30:41,2023-02-01T14:34:34,1,0.73,Standard rate,Manhattan,UN/Turtle Bay South,Manhattan,Sutton Place/Turtle Bay North,Cash,6.5,0,0.5,0,0,1,10.5
+5410,2,2023-02-01T07:31:55,2023-02-01T07:35:58,1,0.84,Standard rate,Manhattan,Lenox Hill West,Manhattan,Upper East Side North,Cash,6.5,0,0.5,0,0,1,10.5
+16216,2,2023-02-01T09:46:02,2023-02-01T09:48:04,1,0.43,Standard rate,Manhattan,Midtown South,Manhattan,Murray Hill,Credit card,4.4,0,0.5,2.1,0,1,10.5
+20868,2,2023-02-01T10:18:42,2023-02-01T10:24:19,2,0,Standard rate,Manhattan,Upper East Side North,Manhattan,Lenox Hill West,Cash,6.5,0,0.5,0,0,1,10.5
+23014,2,2023-02-01T10:24:10,2023-02-01T10:29:08,1,0.73,Standard rate,Manhattan,Upper East Side South,Manhattan,Sutton Place/Turtle Bay North,Cash,6.5,0,0.5,0,0,1,10.5
+29293,2,2023-02-01T11:53:48,2023-02-01T11:58:19,1,0.75,Standard rate,Manhattan,Sutton Place/Turtle Bay North,Manhattan,Upper East Side South,Cash,6.5,0,0.5,0,0,1,10.5
+29331,2,2023-02-01T11:18:38,2023-02-01T11:23:49,1,0.54,Standard rate,Manhattan,Flatiron,Manhattan,West Village,Cash,6.5,0,0.5,0,0,1,10.5
+37945,2,2023-02-01T13:31:44,2023-02-01T13:36:03,2,0.69,Standard rate,Manhattan,Murray Hill,Manhattan,Midtown East,Cash,6.5,0,0.5,0,0,1,10.5
+39214,2,2023-02-01T13:03:06,2023-02-01T13:05:31,1,0.35,Standard rate,Manhattan,Upper East Side North,Manhattan,Yorkville West,Credit card,4.4,0,0.5,2.1,0,1,10.5
+40976,2,2023-02-01T13:59:54,2023-02-01T14:02:15,1,0.45,Standard rate,Manhattan,Garment District,Manhattan,Penn Station/Madison Sq West,Credit card,4.4,0,0.5,2.1,0,1,10.5
+41961,2,2023-02-01T14:12:05,2023-02-01T14:17:30,1,0.42,Standard rate,Manhattan,Upper East Side South,Manhattan,Lenox Hill West,No charge,6.5,0,0.5,0,0,1,10.5
+43969,2,2023-02-01T14:37:37,2023-02-01T14:43:01,2,0.56,Standard rate,Manhattan,Murray Hill,Manhattan,Kips Bay,Dispute,6.5,0,0.5,0,0,1,10.5
+53461,2,2023-02-01T15:15:32,2023-02-01T15:20:32,1,0.45,Standard rate,Manhattan,Yorkville East,Manhattan,Upper East Side North,Cash,6.5,0,0.5,0,0,1,10.5
+113392,2,2023-02-02T07:35:33,2023-02-02T07:40:29,1,0.75,Standard rate,Manhattan,Upper East Side South,Manhattan,Upper East Side South,Cash,6.5,0,0.5,0,0,1,10.5
+20759,2,2023-02-01T10:59:44,2023-02-01T11:04:31,1,0.55,Standard rate,Manhattan,Murray Hill,Manhattan,UN/Turtle Bay South,Cash,6.5,0,0.5,0,0,1,10.5
+48766,2,2023-02-01T15:47:15,2023-02-01T15:49:23,1,0.2,Standard rate,Manhattan,Lenox Hill East,Manhattan,Lenox Hill West,Credit card,4.4,0,0.5,2.1,0,1,10.5
+110180,2,2023-02-02T06:31:11,2023-02-02T06:34:41,1,0.91,Standard rate,Manhattan,Garment District,Manhattan,Midtown Center,Credit card,6.5,0,0.5,0,0,1,10.5
+11922,2,2023-02-01T08:25:55,2023-02-01T08:30:21,1,0.69,Standard rate,Manhattan,Garment District,Manhattan,Clinton East,Cash,6.5,0,0.5,0,0,1,10.5
+24841,2,2023-02-01T11:17:37,2023-02-01T11:22:21,1,0.44,Standard rate,Manhattan,Upper West Side South,Manhattan,Upper West Side North,Cash,6.5,0,0.5,0,0,1,10.5
+29860,2,2023-02-01T11:08:08,2023-02-01T11:12:29,2,0.71,Standard rate,Manhattan,Times Sq/Theatre District,Manhattan,Penn Station/Madison Sq West,Cash,6.5,0,0.5,0,0,1,10.5
+52029,2,2023-02-01T15:04:00,2023-02-01T15:09:30,1,0.51,Standard rate,Manhattan,Upper East Side South,Manhattan,Upper East Side South,Cash,6.5,0,0.5,0,0,1,10.5
+52236,2,2023-02-01T15:21:21,2023-02-01T15:25:22,1,0.69,Standard rate,Manhattan,Lenox Hill East,Manhattan,Yorkville East,Cash,6.5,0,0.5,0,0,1,10.5
+17104,2,2023-02-01T09:48:43,2023-02-01T09:52:54,1,0.91,Standard rate,Manhattan,Upper East Side South,Manhattan,Upper East Side North,Cash,6.5,0,0.5,0,0,1,10.5
+36535,2,2023-02-01T13:57:16,2023-02-01T14:02:20,1,0.58,Standard rate,Manhattan,Lincoln Square East,Manhattan,Lincoln Square West,Cash,6.5,0,0.5,0,0,1,10.5
+38775,2,2023-02-01T13:35:57,2023-02-01T13:41:13,1,0.61,Standard rate,Manhattan,Midtown Center,Manhattan,Midtown South,Cash,6.5,0,0.5,0,0,1,10.5
+39882,2,2023-02-01T13:56:37,2023-02-01T14:01:43,2,0.68,Standard rate,Manhattan,Upper East Side North,Manhattan,Yorkville East,Credit card,6.5,0,0.5,0,0,1,10.5
+41578,2,2023-02-01T14:30:09,2023-02-01T14:34:34,1,0.86,Standard rate,Manhattan,Penn Station/Madison Sq West,Manhattan,Union Sq,Cash,6.5,0,0.5,0,0,1,10.5
+41710,2,2023-02-01T14:49:04,2023-02-01T14:54:37,1,0.53,Standard rate,Manhattan,Midtown East,Manhattan,Midtown Center,Cash,6.5,0,0.5,0,0,1,10.5
+45211,2,2023-02-01T14:35:01,2023-02-01T14:39:09,1,0.64,Standard rate,Manhattan,Gramercy,Manhattan,East Village,Cash,6.5,0,0.5,0,0,1,10.5
+46309,2,2023-02-01T14:50:05,2023-02-01T14:54:54,2,0.5,Standard rate,Manhattan,Times Sq/Theatre District,Manhattan,Times Sq/Theatre District,Cash,6.5,0,0.5,0,0,1,10.5
+46686,2,2023-02-01T14:49:09,2023-02-01T14:54:17,1,0.65,Standard rate,Manhattan,Flatiron,Manhattan,West Village,Cash,6.5,0,0.5,0,0,1,10.5
+48805,2,2023-02-01T15:50:57,2023-02-01T15:56:01,1,0.59,Standard rate,Manhattan,Times Sq/Theatre District,Manhattan,Midtown North,Cash,6.5,0,0.5,0,0,1,10.5
+109703,2,2023-02-02T06:41:54,2023-02-02T06:46:02,1,0.85,Standard rate,Manhattan,Garment District,Manhattan,Times Sq/Theatre District,Cash,6.5,0,0.5,0,0,1,10.5
+110195,2,2023-02-02T06:59:54,2023-02-02T07:01:25,1,0.5,Standard rate,Manhattan,Midtown North,Manhattan,Upper East Side South,Credit card,4.4,0,0.5,2.1,0,1,10.5
+8224,2,2023-02-01T07:58:50,2023-02-01T08:00:16,1,0.48,Standard rate,Manhattan,Penn Station/Madison Sq West,Manhattan,Garment District,Credit card,4.4,0,0.5,2.1,0,1,10.5
+21196,2,2023-02-01T10:45:00,2023-02-01T10:50:18,1,0.67,Standard rate,Manhattan,Midtown Center,Manhattan,Midtown North,Cash,6.5,0,0.5,0,0,1,10.5
+33209,2,2023-02-01T12:42:00,2023-02-01T12:46:40,2,0.85,Standard rate,Manhattan,Clinton East,Manhattan,West Chelsea/Hudson Yards,Cash,6.5,0,0.5,0,0,1,10.5
+39660,2,2023-02-01T13:14:56,2023-02-01T13:19:29,1,0.68,Standard rate,Manhattan,Upper West Side South,Manhattan,Upper West Side South,Dispute,6.5,0,0.5,0,0,1,10.5
+43248,2,2023-02-01T14:24:49,2023-02-01T14:27:15,1,0.35,Standard rate,Manhattan,East Village,Manhattan,Greenwich Village North,Credit card,4.4,0,0.5,2.1,0,1,10.5
+46644,2,2023-02-01T14:27:43,2023-02-01T14:32:15,1,0.88,Standard rate,Manhattan,Upper East Side North,Manhattan,East Harlem South,Cash,6.5,0,0.5,0,0,1,10.5
+60145,2,2023-02-01T16:03:25,2023-02-01T16:08:03,1,0.55,Standard rate,Manhattan,Midtown Center,Manhattan,Murray Hill,Cash,6.5,0,0.5,0,0,1,10.5
+109071,2,2023-02-02T06:57:51,2023-02-02T07:02:44,6,0.73,Standard rate,Manhattan,Clinton East,Manhattan,Midtown Center,Cash,6.5,0,0.5,0,0,1,10.5
+110362,2,2023-02-02T06:46:07,2023-02-02T06:47:49,1,0.45,Standard rate,Manhattan,Lincoln Square East,Manhattan,Lincoln Square East,Credit card,4.4,0,0.5,2.1,0,1,10.5
+6707,2,2023-02-01T07:38:50,2023-02-01T07:40:49,1,0.58,Standard rate,Manhattan,Upper East Side North,Manhattan,Yorkville West,Credit card,4.4,0,0.5,2.1,0,1,10.5
+8718,2,2023-02-01T07:53:12,2023-02-01T07:58:47,1,0.58,Standard rate,Manhattan,Lenox Hill West,Manhattan,Midtown East,Cash,6.5,0,0.5,0,0,1,10.5
+11866,2,2023-02-01T08:03:49,2023-02-01T08:07:47,1,0.82,Standard rate,Manhattan,Yorkville West,Manhattan,Upper East Side North,Dispute,6.5,0,0.5,0,0,1,10.5
+13734,2,2023-02-01T08:35:19,2023-02-01T08:40:43,1,0.32,Standard rate,Manhattan,Upper East Side North,Manhattan,Upper East Side North,Cash,6.5,0,0.5,0,0,1,10.5
+23266,2,2023-02-01T10:38:11,2023-02-01T10:42:37,1,0.64,Standard rate,Manhattan,Clinton West,Manhattan,Midtown North,Cash,6.5,0,0.5,0,0,1,10.5
+28979,2,2023-02-01T11:53:55,2023-02-01T11:59:06,2,0.44,Standard rate,Manhattan,Yorkville West,Manhattan,Upper East Side North,Cash,6.5,0,0.5,0,0,1,10.5
+34823,2,2023-02-01T12:54:03,2023-02-01T12:58:08,1,0.57,Standard rate,Manhattan,Upper East Side South,Manhattan,Upper East Side South,Cash,6.5,0,0.5,0,0,1,10.5
+41753,2,2023-02-01T14:48:25,2023-02-01T14:53:54,1,0.47,Standard rate,Manhattan,Murray Hill,Manhattan,Midtown Center,Credit card,6.5,0,0.5,0,0,1,10.5
+44201,2,2023-02-01T14:54:22,2023-02-01T14:59:35,1,0.51,Standard rate,Manhattan,Midtown North,Manhattan,Midtown East,Cash,6.5,0,0.5,0,0,1,10.5
+49811,2,2023-02-01T15:07:07,2023-02-01T15:11:14,2,0.8,Standard rate,Manhattan,Upper West Side South,Manhattan,Lincoln Square East,Cash,6.5,0,0.5,0,0,1,10.5
+52529,2,2023-02-01T15:10:45,2023-02-01T15:15:53,1,0.7,Standard rate,Manhattan,Upper West Side South,Manhattan,Lincoln Square West,Cash,6.5,0,0.5,0,0,1,10.5
+53910,2,2023-02-01T15:04:35,2023-02-01T15:09:18,1,0.62,Standard rate,Manhattan,Midtown South,Manhattan,Times Sq/Theatre District,Cash,6.5,0,0.5,0,0,1,10.5
+5896,2,2023-02-01T07:03:09,2023-02-01T07:07:32,1,0.9,Standard rate,Manhattan,Midtown South,Manhattan,Gramercy,Dispute,6.5,0,0.5,0,0,1,10.5
+10122,2,2023-02-01T08:52:00,2023-02-01T08:57:29,1,0.12,Standard rate,Manhattan,Lincoln Square West,Manhattan,Lincoln Square West,Dispute,6.5,0,0.5,0,0,1,10.5
+22540,2,2023-02-01T10:31:52,2023-02-01T10:38:25,3,0.7,Standard rate,Manhattan,Yorkville East,Manhattan,Upper East Side North,Cash,6.5,0,0.5,0,0,1,10.5
+24672,2,2023-02-01T10:34:50,2023-02-01T10:38:47,1,0.84,Standard rate,Manhattan,Upper East Side North,Manhattan,East Harlem South,Cash,6.5,0,0.5,0,0,1,10.5
+49777,2,2023-02-01T15:51:15,2023-02-01T15:55:20,6,0.74,Standard rate,Manhattan,Two Bridges/Seward Park,Manhattan,Little Italy/NoLiTa,Cash,6.5,0,0.5,0,0,1,10.5
+4448,2,2023-02-01T06:29:34,2023-02-01T06:34:12,1,0.75,Standard rate,Manhattan,Midtown East,Manhattan,Midtown South,Cash,6.5,0,0.5,0,0,1,10.5
+5752,2,2023-02-01T07:07:06,2023-02-01T07:12:49,1,0.22,Standard rate,Manhattan,Penn Station/Madison Sq West,Manhattan,Garment District,Cash,6.5,0,0.5,0,0,1,10.5

@@ -1,0 +1,6 @@
+select b.PU_Borough as Pickup_location ,Count(a.trip_id) as No_of_trips from uber-swaraj.uber_project_data.fact_table a     
+join `uber-swaraj.uber_project_data.pickup_location_dim` b on 
+a.pickup_location_id=b.pickup_location_id
+group by Pickup_location
+order by No_of_trips DESC
+limit 10;

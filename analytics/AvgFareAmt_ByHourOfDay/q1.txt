@@ -1,0 +1,4 @@
+select b.pick_hour, AVG(a.fare_amount) as fare_amount from `uber-swaraj.uber_project_data.fact_table` a     
+join `uber-swaraj.uber_project_data.datetime_dim` b on a.datetime_id=b.datetime_id 
+group by pick_hour
+order by fare_amount DESC;

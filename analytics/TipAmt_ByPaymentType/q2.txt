@@ -1,0 +1,5 @@
+select b.payment_type_name, SUM(a.tip_amount) as amt from uber-swaraj.uber_project_data.fact_table a
+join  uber-swaraj.uber_project_data.payment_type_dim b  
+on a.payment_type_id=b.payment_type_id
+group by b.payment_type_name
+order by amt DESC
