@@ -15,6 +15,9 @@ This project focuses on performing end-to-end data engineering for Uber data ana
 
 # Project Steps
 - Data Preparation: Combined and cleaned the Uber dataset files to create a unified dataset.
+- Datasets used:
+  1.https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-02.parquet
+  2.https://d37ci6vzurychx.cloudfront.net/misc/taxi+_zone_lookup.csv
 - Data Modeling: Designed a comprehensive data model using Lucidchart, including a fact table and dimension tables.
 
 ![Uber Data Model](https://github.com/swaraj-patil-18/Uber-end-to-end-data-engineering/assets/114085839/d3c2c909-183c-4228-8036-53f1baa33c64)
